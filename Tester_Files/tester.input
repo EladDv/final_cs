@@ -1,0 +1,2002 @@
+|V| = 2000
+=============================================
+Node #0 | 1 adjacent vertices: 350 
+Node #1 | 2 adjacent vertices: 848 1575 
+Node #2 | 3 adjacent vertices: 111 631 1258 
+Node #3 | 3 adjacent vertices: 1350 1541 1627 
+Node #4 | 4 adjacent vertices: 321 834 1010 1896 
+Node #5 | 1 adjacent vertices: 1429 
+Node #6 | 7 adjacent vertices: 231 239 690 1181 1271 1495 1796 
+Node #7 | 2 adjacent vertices: 32 1464 
+Node #8 | 3 adjacent vertices: 554 1032 1872 
+Node #9 | 1 adjacent vertices: 636 
+Node #10 | 1 adjacent vertices: 1156 
+Node #11 | 1 adjacent vertices: 1172 
+Node #12 | 2 adjacent vertices: 1422 1919 
+Node #13 | 3 adjacent vertices: 206 1570 1900 
+Node #14 | 2 adjacent vertices: 296 817 
+Node #15 | 2 adjacent vertices: 95 1604 
+Node #16 | 1 adjacent vertices: 981 
+Node #17 | 3 adjacent vertices: 118 1553 1843 
+Node #18 | 1 adjacent vertices: 1835 
+Node #19 | 1 adjacent vertices: 165 
+Node #20 | 3 adjacent vertices: 229 779 1834 
+Node #21 | 2 adjacent vertices: 249 535 
+Node #22 | 2 adjacent vertices: 314 1760 
+Node #23 | 2 adjacent vertices: 920 1653 
+Node #24 | 3 adjacent vertices: 383 1709 1904 
+Node #25 | 1 adjacent vertices: 1102 
+Node #26 | 2 adjacent vertices: 895 1837 
+Node #27 | 2 adjacent vertices: 744 1145 
+Node #28 | 2 adjacent vertices: 742 1607 
+Node #29 | 2 adjacent vertices: 586 1560 
+Node #30 | 3 adjacent vertices: 493 592 1489 
+Node #31 | 2 adjacent vertices: 172 1444 
+Node #32 | 4 adjacent vertices: 7 161 217 853 
+Node #33 | 2 adjacent vertices: 103 1289 
+Node #34 | 1 adjacent vertices: 1337 
+Node #35 | 3 adjacent vertices: 410 526 946 
+Node #36 | 2 adjacent vertices: 1373 1885 
+Node #37 | 3 adjacent vertices: 352 481 518 
+Node #38 | 2 adjacent vertices: 442 1433 
+Node #39 | 2 adjacent vertices: 917 1615 
+Node #40 | 1 adjacent vertices: 1154 
+Node #41 | 2 adjacent vertices: 227 1598 
+Node #42 | 3 adjacent vertices: 441 448 1144 
+Node #43 | 1 adjacent vertices: 1074 
+Node #44 | 1 adjacent vertices: 1850 
+Node #45 | 2 adjacent vertices: 1258 1491 
+Node #46 | 1 adjacent vertices: 1169 
+Node #47 | 3 adjacent vertices: 832 981 1305 
+Node #48 | 1 adjacent vertices: 1101 
+Node #49 | 2 adjacent vertices: 1356 1576 
+Node #50 | 3 adjacent vertices: 361 836 1349 
+Node #51 | 1 adjacent vertices: 1288 
+Node #52 | 1 adjacent vertices: 1605 
+Node #53 | 2 adjacent vertices: 286 1110 
+Node #54 | 1 adjacent vertices: 941 
+Node #55 | 3 adjacent vertices: 1394 1509 1968 
+Node #56 | 1 adjacent vertices: 212 
+Node #57 | 4 adjacent vertices: 188 657 919 1068 
+Node #58 | 2 adjacent vertices: 605 1539 
+Node #59 | 2 adjacent vertices: 598 1306 
+Node #60 | 2 adjacent vertices: 775 1879 
+Node #61 | 3 adjacent vertices: 436 1451 1517 
+Node #62 | 1 adjacent vertices: 1102 
+Node #63 | 3 adjacent vertices: 806 936 1393 
+Node #64 | 2 adjacent vertices: 775 1554 
+Node #65 | 2 adjacent vertices: 439 1607 
+Node #66 | 2 adjacent vertices: 1346 1886 
+Node #67 | 3 adjacent vertices: 837 940 1791 
+Node #68 | 2 adjacent vertices: 957 1157 
+Node #69 | 3 adjacent vertices: 141 974 1869 
+Node #70 | 3 adjacent vertices: 551 708 912 
+Node #71 | 1 adjacent vertices: 463 
+Node #72 | 1 adjacent vertices: 91 
+Node #73 | 3 adjacent vertices: 1150 1571 1656 
+Node #74 | 1 adjacent vertices: 1889 
+Node #75 | 2 adjacent vertices: 317 1942 
+Node #76 | 1 adjacent vertices: 760 
+Node #77 | 2 adjacent vertices: 1410 1884 
+Node #78 | 2 adjacent vertices: 391 1126 
+Node #79 | 1 adjacent vertices: 214 
+Node #80 | 1 adjacent vertices: 767 
+Node #81 | 2 adjacent vertices: 475 1085 
+Node #82 | 1 adjacent vertices: 1502 
+Node #83 | 3 adjacent vertices: 372 983 1354 
+Node #84 | 3 adjacent vertices: 1047 1585 1592 
+Node #85 | 2 adjacent vertices: 795 1316 
+Node #86 | 2 adjacent vertices: 234 313 
+Node #87 | 2 adjacent vertices: 149 1662 
+Node #88 | 1 adjacent vertices: 984 
+Node #89 | 1 adjacent vertices: 839 
+Node #90 | 5 adjacent vertices: 386 917 1523 1807 1873 
+Node #91 | 4 adjacent vertices: 72 446 1520 1759 
+Node #92 | 1 adjacent vertices: 290 
+Node #93 | 1 adjacent vertices: 909 
+Node #94 | 2 adjacent vertices: 1047 1801 
+Node #95 | 4 adjacent vertices: 15 197 559 1870 
+Node #96 | 1 adjacent vertices: 1348 
+Node #97 | 2 adjacent vertices: 746 1536 
+Node #98 | 2 adjacent vertices: 1021 1988 
+Node #99 | 3 adjacent vertices: 635 657 883 
+Node #100 | 3 adjacent vertices: 945 1239 1758 
+Node #101 | 3 adjacent vertices: 1049 1283 1585 
+Node #102 | 1 adjacent vertices: 1121 
+Node #103 | 4 adjacent vertices: 33 262 1012 1330 
+Node #104 | 2 adjacent vertices: 551 1240 
+Node #105 | 2 adjacent vertices: 1010 1256 
+Node #106 | 3 adjacent vertices: 628 1290 1624 
+Node #107 | 2 adjacent vertices: 830 1311 
+Node #108 | 1 adjacent vertices: 421 
+Node #109 | 3 adjacent vertices: 750 1106 1543 
+Node #110 | 1 adjacent vertices: 1877 
+Node #111 | 2 adjacent vertices: 2 1540 
+Node #112 | 2 adjacent vertices: 244 1578 
+Node #113 | 1 adjacent vertices: 1379 
+Node #114 | 1 adjacent vertices: 1912 
+Node #115 | 1 adjacent vertices: 1515 
+Node #116 | 1 adjacent vertices: 527 
+Node #117 | 1 adjacent vertices: 146 
+Node #118 | 2 adjacent vertices: 17 319 
+Node #119 | 2 adjacent vertices: 686 1511 
+Node #120 | 1 adjacent vertices: 1338 
+Node #121 | 2 adjacent vertices: 452 1824 
+Node #122 | 3 adjacent vertices: 1059 1622 1747 
+Node #123 | 1 adjacent vertices: 1628 
+Node #124 | 4 adjacent vertices: 1086 1450 1494 1617 
+Node #125 | 3 adjacent vertices: 661 669 939 
+Node #126 | 3 adjacent vertices: 1296 1797 1825 
+Node #127 | 4 adjacent vertices: 518 636 712 786 
+Node #128 | 2 adjacent vertices: 1522 1767 
+Node #129 | 3 adjacent vertices: 897 1715 1814 
+Node #130 | 3 adjacent vertices: 867 1444 1717 
+Node #131 | 1 adjacent vertices: 1006 
+Node #132 | 2 adjacent vertices: 805 863 
+Node #133 | 1 adjacent vertices: 917 
+Node #134 | 3 adjacent vertices: 337 1372 1616 
+Node #135 | 1 adjacent vertices: 1414 
+Node #136 | 2 adjacent vertices: 279 1485 
+Node #137 | 5 adjacent vertices: 943 1340 1453 1961 1980 
+Node #138 | 2 adjacent vertices: 186 1077 
+Node #139 | 1 adjacent vertices: 1052 
+Node #140 | 2 adjacent vertices: 1057 1064 
+Node #141 | 3 adjacent vertices: 69 955 1399 
+Node #142 | 1 adjacent vertices: 592 
+Node #143 | 2 adjacent vertices: 934 994 
+Node #144 | 3 adjacent vertices: 686 1321 1771 
+Node #145 | 1 adjacent vertices: 505 
+Node #146 | 4 adjacent vertices: 117 241 509 1588 
+Node #147 | 2 adjacent vertices: 1213 1217 
+Node #148 | 2 adjacent vertices: 1003 1317 
+Node #149 | 2 adjacent vertices: 87 526 
+Node #150 | 3 adjacent vertices: 393 1076 1307 
+Node #151 | 2 adjacent vertices: 341 1499 
+Node #152 | 1 adjacent vertices: 703 
+Node #153 | 1 adjacent vertices: 1050 
+Node #154 | 3 adjacent vertices: 322 1132 1743 
+Node #155 | 1 adjacent vertices: 1789 
+Node #156 | 1 adjacent vertices: 1720 
+Node #157 | 1 adjacent vertices: 499 
+Node #158 | 1 adjacent vertices: 575 
+Node #159 | 2 adjacent vertices: 1839 1895 
+Node #160 | 1 adjacent vertices: 665 
+Node #161 | 2 adjacent vertices: 32 371 
+Node #162 | 1 adjacent vertices: 846 
+Node #163 | 4 adjacent vertices: 420 696 1528 1805 
+Node #164 | 1 adjacent vertices: 1640 
+Node #165 | 3 adjacent vertices: 19 1535 1636 
+Node #166 | 2 adjacent vertices: 1054 1294 
+Node #167 | 3 adjacent vertices: 202 254 1920 
+Node #168 | 2 adjacent vertices: 872 1496 
+Node #169 | 1 adjacent vertices: 724 
+Node #170 | 2 adjacent vertices: 972 1475 
+Node #171 | 1 adjacent vertices: 912 
+Node #172 | 4 adjacent vertices: 31 808 1322 1432 
+Node #173 | 1 adjacent vertices: 1565 
+Node #174 | 3 adjacent vertices: 258 730 1555 
+Node #175 | 3 adjacent vertices: 381 1069 1353 
+Node #176 | 2 adjacent vertices: 422 546 
+Node #177 | 3 adjacent vertices: 478 768 1108 
+Node #178 | 3 adjacent vertices: 283 584 1762 
+Node #179 | 2 adjacent vertices: 675 1777 
+Node #180 | 2 adjacent vertices: 459 1646 
+Node #181 | 1 adjacent vertices: 1711 
+Node #182 | 1 adjacent vertices: 471 
+Node #183 | 2 adjacent vertices: 349 1574 
+Node #184 | 3 adjacent vertices: 762 947 1216 
+Node #185 | 1 adjacent vertices: 793 
+Node #186 | 3 adjacent vertices: 138 337 1474 
+Node #187 | 1 adjacent vertices: 834 
+Node #188 | 2 adjacent vertices: 57 1644 
+Node #189 | 1 adjacent vertices: 1066 
+Node #190 | 2 adjacent vertices: 194 673 
+Node #191 | 3 adjacent vertices: 310 948 1392 
+Node #192 | 1 adjacent vertices: 1437 
+Node #193 | 1 adjacent vertices: 1519 
+Node #194 | 5 adjacent vertices: 190 679 691 747 1204 
+Node #195 | 1 adjacent vertices: 1430 
+Node #196 | 1 adjacent vertices: 1054 
+Node #197 | 2 adjacent vertices: 95 1837 
+Node #198 | 3 adjacent vertices: 1350 1695 1732 
+Node #199 | 2 adjacent vertices: 903 1562 
+Node #200 | 1 adjacent vertices: 561 
+Node #201 | 3 adjacent vertices: 366 674 1723 
+Node #202 | 1 adjacent vertices: 167 
+Node #203 | 1 adjacent vertices: 944 
+Node #204 | 3 adjacent vertices: 591 843 1061 
+Node #205 | 2 adjacent vertices: 426 451 
+Node #206 | 3 adjacent vertices: 13 715 736 
+Node #207 | 3 adjacent vertices: 1013 1730 1805 
+Node #208 | 1 adjacent vertices: 1546 
+Node #209 | 1 adjacent vertices: 648 
+Node #210 | 1 adjacent vertices: 1143 
+Node #211 | 2 adjacent vertices: 1192 1530 
+Node #212 | 3 adjacent vertices: 56 360 1798 
+Node #213 | 1 adjacent vertices: 1966 
+Node #214 | 3 adjacent vertices: 79 951 1542 
+Node #215 | 1 adjacent vertices: 1122 
+Node #216 | 1 adjacent vertices: 759 
+Node #217 | 4 adjacent vertices: 32 642 1166 1608 
+Node #218 | 3 adjacent vertices: 308 1069 1669 
+Node #219 | 2 adjacent vertices: 755 771 
+Node #220 | 2 adjacent vertices: 1039 1450 
+Node #221 | 2 adjacent vertices: 586 981 
+Node #222 | 2 adjacent vertices: 1065 1642 
+Node #223 | 3 adjacent vertices: 259 789 1240 
+Node #224 | 2 adjacent vertices: 853 1124 
+Node #225 | 1 adjacent vertices: 1256 
+Node #226 | 1 adjacent vertices: 670 
+Node #227 | 3 adjacent vertices: 41 259 698 
+Node #228 | 5 adjacent vertices: 724 895 1093 1181 1266 
+Node #229 | 3 adjacent vertices: 20 886 1784 
+Node #230 | 3 adjacent vertices: 671 737 1514 
+Node #231 | 1 adjacent vertices: 6 
+Node #232 | 1 adjacent vertices: 694 
+Node #233 | 2 adjacent vertices: 235 1682 
+Node #234 | 3 adjacent vertices: 86 950 1558 
+Node #235 | 2 adjacent vertices: 233 1286 
+Node #236 | 1 adjacent vertices: 460 
+Node #237 | 1 adjacent vertices: 1315 
+Node #238 | 4 adjacent vertices: 651 1002 1664 1826 
+Node #239 | 3 adjacent vertices: 6 648 1261 
+Node #240 | 1 adjacent vertices: 1964 
+Node #241 | 1 adjacent vertices: 146 
+Node #242 | 1 adjacent vertices: 1550 
+Node #243 | 2 adjacent vertices: 324 1887 
+Node #244 | 4 adjacent vertices: 112 753 768 1391 
+Node #245 | 4 adjacent vertices: 285 491 492 1444 
+Node #246 | 2 adjacent vertices: 1427 1798 
+Node #247 | 2 adjacent vertices: 1223 1996 
+Node #248 | 2 adjacent vertices: 1251 1477 
+Node #249 | 3 adjacent vertices: 21 458 751 
+Node #250 | 1 adjacent vertices: 1979 
+Node #251 | 1 adjacent vertices: 927 
+Node #252 | 6 adjacent vertices: 406 979 1439 1525 1765 1835 
+Node #253 | 1 adjacent vertices: 1044 
+Node #254 | 2 adjacent vertices: 167 1382 
+Node #255 | 2 adjacent vertices: 644 1839 
+Node #256 | 3 adjacent vertices: 263 652 681 
+Node #257 | 1 adjacent vertices: 1189 
+Node #258 | 2 adjacent vertices: 174 904 
+Node #259 | 4 adjacent vertices: 223 227 1244 1745 
+Node #260 | 1 adjacent vertices: 1209 
+Node #261 | 6 adjacent vertices: 311 418 705 1136 1803 1991 
+Node #262 | 2 adjacent vertices: 103 1321 
+Node #263 | 3 adjacent vertices: 256 807 907 
+Node #264 | 2 adjacent vertices: 452 962 
+Node #265 | 1 adjacent vertices: 1053 
+Node #266 | 2 adjacent vertices: 1542 1962 
+Node #267 | 3 adjacent vertices: 1084 1264 1928 
+Node #268 | 3 adjacent vertices: 369 822 971 
+Node #269 | 2 adjacent vertices: 545 1328 
+Node #270 | 2 adjacent vertices: 1541 1622 
+Node #271 | 2 adjacent vertices: 685 1925 
+Node #272 | 3 adjacent vertices: 309 692 1292 
+Node #273 | 1 adjacent vertices: 1173 
+Node #274 | 2 adjacent vertices: 344 1361 
+Node #275 | 2 adjacent vertices: 654 804 
+Node #276 | 1 adjacent vertices: 617 
+Node #277 | 1 adjacent vertices: 1159 
+Node #278 | 1 adjacent vertices: 380 
+Node #279 | 2 adjacent vertices: 136 446 
+Node #280 | 3 adjacent vertices: 1617 1619 1757 
+Node #281 | 6 adjacent vertices: 359 509 846 1376 1725 1896 
+Node #282 | 3 adjacent vertices: 1208 1714 1726 
+Node #283 | 3 adjacent vertices: 178 1229 1408 
+Node #284 | 1 adjacent vertices: 1755 
+Node #285 | 2 adjacent vertices: 245 1150 
+Node #286 | 1 adjacent vertices: 53 
+Node #287 | 1 adjacent vertices: 408 
+Node #288 | 2 adjacent vertices: 1228 1435 
+Node #289 | 1 adjacent vertices: 1309 
+Node #290 | 3 adjacent vertices: 92 505 1865 
+Node #291 | 2 adjacent vertices: 644 1833 
+Node #292 | 2 adjacent vertices: 308 1727 
+Node #293 | 1 adjacent vertices: 609 
+Node #294 | 3 adjacent vertices: 334 1252 1344 
+Node #295 | 2 adjacent vertices: 532 1092 
+Node #296 | 3 adjacent vertices: 14 1545 1596 
+Node #297 | 1 adjacent vertices: 794 
+Node #298 | 3 adjacent vertices: 399 1774 1796 
+Node #299 | 2 adjacent vertices: 735 1749 
+Node #300 | 1 adjacent vertices: 1692 
+Node #301 | 1 adjacent vertices: 1419 
+Node #302 | 1 adjacent vertices: 1420 
+Node #303 | 3 adjacent vertices: 549 736 1720 
+Node #304 | 3 adjacent vertices: 723 788 944 
+Node #305 | 4 adjacent vertices: 637 781 1339 1382 
+Node #306 | 2 adjacent vertices: 377 1892 
+Node #307 | 1 adjacent vertices: 1913 
+Node #308 | 2 adjacent vertices: 218 292 
+Node #309 | 1 adjacent vertices: 272 
+Node #310 | 2 adjacent vertices: 191 360 
+Node #311 | 1 adjacent vertices: 261 
+Node #312 | 2 adjacent vertices: 544 631 
+Node #313 | 1 adjacent vertices: 86 
+Node #314 | 1 adjacent vertices: 22 
+Node #315 | 1 adjacent vertices: 739 
+Node #316 | 2 adjacent vertices: 683 1368 
+Node #317 | 3 adjacent vertices: 75 1767 1868 
+Node #318 | 1 adjacent vertices: 1147 
+Node #319 | 1 adjacent vertices: 118 
+Node #320 | 1 adjacent vertices: 1736 
+Node #321 | 1 adjacent vertices: 4 
+Node #322 | 4 adjacent vertices: 154 430 1115 1742 
+Node #323 | 2 adjacent vertices: 1303 1463 
+Node #324 | 2 adjacent vertices: 243 613 
+Node #325 | 2 adjacent vertices: 367 720 
+Node #326 | 2 adjacent vertices: 347 1182 
+Node #327 | 2 adjacent vertices: 980 1738 
+Node #328 | 3 adjacent vertices: 784 1016 1514 
+Node #329 | 1 adjacent vertices: 496 
+Node #330 | 1 adjacent vertices: 1715 
+Node #331 | 2 adjacent vertices: 1246 1558 
+Node #332 | 2 adjacent vertices: 503 1915 
+Node #333 | 2 adjacent vertices: 1488 1945 
+Node #334 | 4 adjacent vertices: 294 387 954 1199 
+Node #335 | 2 adjacent vertices: 362 1211 
+Node #336 | 3 adjacent vertices: 621 1448 1529 
+Node #337 | 2 adjacent vertices: 134 186 
+Node #338 | 1 adjacent vertices: 1124 
+Node #339 | 3 adjacent vertices: 541 914 1937 
+Node #340 | 3 adjacent vertices: 410 459 1721 
+Node #341 | 4 adjacent vertices: 151 512 910 1836 
+Node #342 | 3 adjacent vertices: 1245 1527 1669 
+Node #343 | 6 adjacent vertices: 510 766 790 1064 1442 1823 
+Node #344 | 1 adjacent vertices: 274 
+Node #345 | 1 adjacent vertices: 1549 
+Node #346 | 2 adjacent vertices: 533 1471 
+Node #347 | 2 adjacent vertices: 326 958 
+Node #348 | 3 adjacent vertices: 552 1239 1976 
+Node #349 | 2 adjacent vertices: 183 1680 
+Node #350 | 2 adjacent vertices: 0 1428 
+Node #351 | 1 adjacent vertices: 1712 
+Node #352 | 2 adjacent vertices: 37 714 
+Node #353 | 1 adjacent vertices: 543 
+Node #354 | 2 adjacent vertices: 1148 1528 
+Node #355 | 2 adjacent vertices: 650 1077 
+Node #356 | 3 adjacent vertices: 868 1263 1447 
+Node #357 | 3 adjacent vertices: 1421 1862 1875 
+Node #358 | 2 adjacent vertices: 1548 1982 
+Node #359 | 3 adjacent vertices: 281 777 1649 
+Node #360 | 5 adjacent vertices: 212 310 647 723 998 
+Node #361 | 2 adjacent vertices: 50 453 
+Node #362 | 2 adjacent vertices: 335 1213 
+Node #363 | 1 adjacent vertices: 990 
+Node #364 | 1 adjacent vertices: 1538 
+Node #365 | 1 adjacent vertices: 981 
+Node #366 | 2 adjacent vertices: 201 1977 
+Node #367 | 3 adjacent vertices: 325 511 700 
+Node #368 | 1 adjacent vertices: 1167 
+Node #369 | 3 adjacent vertices: 268 1065 1326 
+Node #370 | 1 adjacent vertices: 1777 
+Node #371 | 2 adjacent vertices: 161 1978 
+Node #372 | 2 adjacent vertices: 83 1162 
+Node #373 | 1 adjacent vertices: 1305 
+Node #374 | 1 adjacent vertices: 1773 
+Node #375 | 2 adjacent vertices: 1128 1789 
+Node #376 | 1 adjacent vertices: 1206 
+Node #377 | 2 adjacent vertices: 306 1258 
+Node #378 | 1 adjacent vertices: 747 
+Node #379 | 3 adjacent vertices: 427 1503 1535 
+Node #380 | 3 adjacent vertices: 278 1347 1987 
+Node #381 | 3 adjacent vertices: 175 1218 1299 
+Node #382 | 4 adjacent vertices: 681 1247 1639 1889 
+Node #383 | 4 adjacent vertices: 24 758 1546 1638 
+Node #384 | 1 adjacent vertices: 1071 
+Node #385 | 1 adjacent vertices: 1127 
+Node #386 | 2 adjacent vertices: 90 1026 
+Node #387 | 3 adjacent vertices: 334 1302 1446 
+Node #388 | 3 adjacent vertices: 1298 1355 1581 
+Node #389 | 2 adjacent vertices: 1361 1385 
+Node #390 | 3 adjacent vertices: 1462 1463 1707 
+Node #391 | 3 adjacent vertices: 78 1311 1871 
+Node #392 | 1 adjacent vertices: 1411 
+Node #393 | 4 adjacent vertices: 150 1259 1348 1825 
+Node #394 | 4 adjacent vertices: 1069 1444 1568 1877 
+Node #395 | 2 adjacent vertices: 1113 1301 
+Node #396 | 3 adjacent vertices: 742 1131 1323 
+Node #397 | 1 adjacent vertices: 1270 
+Node #398 | 2 adjacent vertices: 460 1812 
+Node #399 | 3 adjacent vertices: 298 484 1205 
+Node #400 | 4 adjacent vertices: 735 933 948 1487 
+Node #401 | 2 adjacent vertices: 1590 1932 
+Node #402 | 4 adjacent vertices: 405 520 629 1863 
+Node #403 | 4 adjacent vertices: 463 1476 1667 1876 
+Node #404 | 1 adjacent vertices: 1247 
+Node #405 | 1 adjacent vertices: 402 
+Node #406 | 2 adjacent vertices: 252 974 
+Node #407 | 3 adjacent vertices: 633 805 1579 
+Node #408 | 2 adjacent vertices: 287 708 
+Node #409 | 2 adjacent vertices: 1351 1418 
+Node #410 | 2 adjacent vertices: 35 340 
+Node #411 | 1 adjacent vertices: 1047 
+Node #412 | 1 adjacent vertices: 1526 
+Node #413 | 1 adjacent vertices: 1940 
+Node #414 | 3 adjacent vertices: 609 1071 1171 
+Node #415 | 1 adjacent vertices: 597 
+Node #416 | 3 adjacent vertices: 488 1067 1265 
+Node #417 | 1 adjacent vertices: 450 
+Node #418 | 2 adjacent vertices: 261 1283 
+Node #419 | 2 adjacent vertices: 422 1918 
+Node #420 | 4 adjacent vertices: 163 498 1425 1696 
+Node #421 | 4 adjacent vertices: 108 746 786 1424 
+Node #422 | 5 adjacent vertices: 176 419 604 853 1950 
+Node #423 | 2 adjacent vertices: 1017 1574 
+Node #424 | 2 adjacent vertices: 896 966 
+Node #425 | 2 adjacent vertices: 757 1922 
+Node #426 | 5 adjacent vertices: 205 562 875 1791 1830 
+Node #427 | 3 adjacent vertices: 379 1219 1405 
+Node #428 | 1 adjacent vertices: 1544 
+Node #429 | 2 adjacent vertices: 1039 1375 
+Node #430 | 4 adjacent vertices: 322 678 1045 1512 
+Node #431 | 2 adjacent vertices: 845 1992 
+Node #432 | 1 adjacent vertices: 981 
+Node #433 | 1 adjacent vertices: 1307 
+Node #434 | 1 adjacent vertices: 1308 
+Node #435 | 1 adjacent vertices: 580 
+Node #436 | 3 adjacent vertices: 61 683 1361 
+Node #437 | 2 adjacent vertices: 1360 1912 
+Node #438 | 5 adjacent vertices: 464 537 1279 1386 1913 
+Node #439 | 4 adjacent vertices: 65 769 1359 1897 
+Node #440 | 1 adjacent vertices: 1263 
+Node #441 | 3 adjacent vertices: 42 977 1726 
+Node #442 | 3 adjacent vertices: 38 1817 1860 
+Node #443 | 1 adjacent vertices: 1141 
+Node #444 | 2 adjacent vertices: 1247 1666 
+Node #445 | 4 adjacent vertices: 607 918 1240 1561 
+Node #446 | 2 adjacent vertices: 91 279 
+Node #447 | 4 adjacent vertices: 734 1104 1901 1985 
+Node #448 | 3 adjacent vertices: 42 1594 1800 
+Node #449 | 4 adjacent vertices: 1374 1526 1551 1755 
+Node #450 | 3 adjacent vertices: 417 1508 1829 
+Node #451 | 2 adjacent vertices: 205 1486 
+Node #452 | 2 adjacent vertices: 121 264 
+Node #453 | 1 adjacent vertices: 361 
+Node #454 | 2 adjacent vertices: 1779 1836 
+Node #455 | 2 adjacent vertices: 743 1369 
+Node #456 | 2 adjacent vertices: 635 1031 
+Node #457 | 2 adjacent vertices: 952 1006 
+Node #458 | 3 adjacent vertices: 249 1285 1749 
+Node #459 | 2 adjacent vertices: 180 340 
+Node #460 | 3 adjacent vertices: 236 398 1234 
+Node #461 | 4 adjacent vertices: 621 687 779 1097 
+Node #462 | 1 adjacent vertices: 1025 
+Node #463 | 4 adjacent vertices: 71 403 1114 1379 
+Node #464 | 2 adjacent vertices: 438 1653 
+Node #465 | 2 adjacent vertices: 646 685 
+Node #466 | 2 adjacent vertices: 1900 1960 
+Node #467 | 1 adjacent vertices: 499 
+Node #468 | 2 adjacent vertices: 741 949 
+Node #469 | 1 adjacent vertices: 1698 
+Node #470 | 1 adjacent vertices: 1268 
+Node #471 | 3 adjacent vertices: 182 564 717 
+Node #472 | 2 adjacent vertices: 1424 1610 
+Node #473 | 1 adjacent vertices: 1437 
+Node #474 | 1 adjacent vertices: 1705 
+Node #475 | 2 adjacent vertices: 81 1091 
+Node #476 | 2 adjacent vertices: 678 1116 
+Node #477 | 1 adjacent vertices: 1796 
+Node #478 | 1 adjacent vertices: 177 
+Node #479 | 1 adjacent vertices: 720 
+Node #480 | 3 adjacent vertices: 739 1110 1523 
+Node #481 | 1 adjacent vertices: 37 
+Node #482 | 1 adjacent vertices: 926 
+Node #483 | 3 adjacent vertices: 894 1794 1996 
+Node #484 | 1 adjacent vertices: 399 
+Node #485 | 1 adjacent vertices: 1057 
+Node #486 | 1 adjacent vertices: 1365 
+Node #487 | 2 adjacent vertices: 1034 1275 
+Node #488 | 2 adjacent vertices: 416 611 
+Node #489 | 2 adjacent vertices: 778 1466 
+Node #490 | 2 adjacent vertices: 1439 1566 
+Node #491 | 2 adjacent vertices: 245 1166 
+Node #492 | 1 adjacent vertices: 245 
+Node #493 | 3 adjacent vertices: 30 591 1674 
+Node #494 | 1 adjacent vertices: 897 
+Node #495 | 1 adjacent vertices: 1035 
+Node #496 | 2 adjacent vertices: 329 1628 
+Node #497 | 3 adjacent vertices: 857 964 1751 
+Node #498 | 3 adjacent vertices: 420 1502 1534 
+Node #499 | 3 adjacent vertices: 157 467 577 
+Node #500 | 2 adjacent vertices: 555 772 
+Node #501 | 2 adjacent vertices: 706 1155 
+Node #502 | 1 adjacent vertices: 1493 
+Node #503 | 4 adjacent vertices: 332 643 764 1412 
+Node #504 | 1 adjacent vertices: 592 
+Node #505 | 4 adjacent vertices: 145 290 828 1199 
+Node #506 | 2 adjacent vertices: 1404 1775 
+Node #507 | 2 adjacent vertices: 1028 1622 
+Node #508 | 1 adjacent vertices: 1347 
+Node #509 | 3 adjacent vertices: 146 281 1952 
+Node #510 | 2 adjacent vertices: 343 1688 
+Node #511 | 3 adjacent vertices: 367 908 1222 
+Node #512 | 1 adjacent vertices: 341 
+Node #513 | 1 adjacent vertices: 1621 
+Node #514 | 2 adjacent vertices: 1218 1633 
+Node #515 | 1 adjacent vertices: 740 
+Node #516 | 1 adjacent vertices: 1030 
+Node #517 | 2 adjacent vertices: 936 1807 
+Node #518 | 4 adjacent vertices: 37 127 1147 1813 
+Node #519 | 1 adjacent vertices: 1798 
+Node #520 | 2 adjacent vertices: 402 804 
+Node #521 | 1 adjacent vertices: 1693 
+Node #522 | 1 adjacent vertices: 964 
+Node #523 | 2 adjacent vertices: 1000 1729 
+Node #524 | 2 adjacent vertices: 637 760 
+Node #525 | 3 adjacent vertices: 961 1458 1862 
+Node #526 | 3 adjacent vertices: 35 149 1478 
+Node #527 | 4 adjacent vertices: 116 617 759 1591 
+Node #528 | 2 adjacent vertices: 589 1071 
+Node #529 | 2 adjacent vertices: 1686 1922 
+Node #530 | 1 adjacent vertices: 1547 
+Node #531 | 3 adjacent vertices: 1143 1979 1993 
+Node #532 | 2 adjacent vertices: 295 1077 
+Node #533 | 4 adjacent vertices: 346 1040 1320 1978 
+Node #534 | 1 adjacent vertices: 663 
+Node #535 | 2 adjacent vertices: 21 580 
+Node #536 | 2 adjacent vertices: 591 624 
+Node #537 | 2 adjacent vertices: 438 904 
+Node #538 | 2 adjacent vertices: 1644 1698 
+Node #539 | 1 adjacent vertices: 1939 
+Node #540 | 2 adjacent vertices: 742 1023 
+Node #541 | 1 adjacent vertices: 339 
+Node #542 | 2 adjacent vertices: 564 1161 
+Node #543 | 2 adjacent vertices: 353 1083 
+Node #544 | 2 adjacent vertices: 312 638 
+Node #545 | 2 adjacent vertices: 269 732 
+Node #546 | 1 adjacent vertices: 176 
+Node #547 | 2 adjacent vertices: 1415 1694 
+Node #548 | 2 adjacent vertices: 1291 1668 
+Node #549 | 2 adjacent vertices: 303 1506 
+Node #550 | 1 adjacent vertices: 1493 
+Node #551 | 2 adjacent vertices: 70 104 
+Node #552 | 1 adjacent vertices: 348 
+Node #553 | 1 adjacent vertices: 809 
+Node #554 | 4 adjacent vertices: 8 1304 1337 1422 
+Node #555 | 3 adjacent vertices: 500 985 1306 
+Node #556 | 2 adjacent vertices: 671 1514 
+Node #557 | 3 adjacent vertices: 1458 1680 1773 
+Node #558 | 4 adjacent vertices: 761 1400 1849 1955 
+Node #559 | 1 adjacent vertices: 95 
+Node #560 | 1 adjacent vertices: 1380 
+Node #561 | 2 adjacent vertices: 200 1502 
+Node #562 | 1 adjacent vertices: 426 
+Node #563 | 3 adjacent vertices: 809 1267 1410 
+Node #564 | 2 adjacent vertices: 471 542 
+Node #565 | 1 adjacent vertices: 1089 
+Node #566 | 2 adjacent vertices: 830 1577 
+Node #567 | 1 adjacent vertices: 1134 
+Node #568 | 3 adjacent vertices: 1349 1527 1969 
+Node #569 | 2 adjacent vertices: 826 1263 
+Node #570 | 4 adjacent vertices: 795 1200 1425 1922 
+Node #571 | 3 adjacent vertices: 621 669 1333 
+Node #572 | 4 adjacent vertices: 773 1126 1165 1201 
+Node #573 | 3 adjacent vertices: 595 938 1477 
+Node #574 | 2 adjacent vertices: 839 1704 
+Node #575 | 4 adjacent vertices: 158 719 1038 1477 
+Node #576 | 1 adjacent vertices: 1670 
+Node #577 | 2 adjacent vertices: 499 1880 
+Node #578 | 3 adjacent vertices: 824 1524 1783 
+Node #579 | 1 adjacent vertices: 1338 
+Node #580 | 3 adjacent vertices: 435 535 1041 
+Node #581 | 1 adjacent vertices: 1017 
+Node #582 | 2 adjacent vertices: 1466 1761 
+Node #583 | 1 adjacent vertices: 884 
+Node #584 | 2 adjacent vertices: 178 994 
+Node #585 | 2 adjacent vertices: 1146 1183 
+Node #586 | 2 adjacent vertices: 29 221 
+Node #587 | 2 adjacent vertices: 1202 1959 
+Node #588 | 2 adjacent vertices: 993 1310 
+Node #589 | 2 adjacent vertices: 528 869 
+Node #590 | 1 adjacent vertices: 1297 
+Node #591 | 6 adjacent vertices: 204 493 536 725 838 1051 
+Node #592 | 5 adjacent vertices: 30 142 504 1631 1841 
+Node #593 | 2 adjacent vertices: 950 1723 
+Node #594 | 1 adjacent vertices: 1534 
+Node #595 | 2 adjacent vertices: 573 1094 
+Node #596 | 1 adjacent vertices: 1164 
+Node #597 | 2 adjacent vertices: 415 717 
+Node #598 | 1 adjacent vertices: 59 
+Node #599 | 1 adjacent vertices: 691 
+Node #600 | 2 adjacent vertices: 1543 1764 
+Node #601 | 2 adjacent vertices: 1135 1484 
+Node #602 | 1 adjacent vertices: 1312 
+Node #603 | 1 adjacent vertices: 1061 
+Node #604 | 3 adjacent vertices: 422 1358 1500 
+Node #605 | 2 adjacent vertices: 58 1368 
+Node #606 | 1 adjacent vertices: 890 
+Node #607 | 1 adjacent vertices: 445 
+Node #608 | 1 adjacent vertices: 1601 
+Node #609 | 3 adjacent vertices: 293 414 989 
+Node #610 | 4 adjacent vertices: 665 778 1233 1783 
+Node #611 | 2 adjacent vertices: 488 1551 
+Node #612 | 1 adjacent vertices: 1783 
+Node #613 | 2 adjacent vertices: 324 1896 
+Node #614 | 3 adjacent vertices: 1279 1587 1724 
+Node #615 | 3 adjacent vertices: 1423 1652 1962 
+Node #616 | 1 adjacent vertices: 1432 
+Node #617 | 5 adjacent vertices: 276 527 1209 1933 1946 
+Node #618 | 2 adjacent vertices: 1164 1336 
+Node #619 | 2 adjacent vertices: 777 1079 
+Node #620 | 1 adjacent vertices: 826 
+Node #621 | 5 adjacent vertices: 336 461 571 782 1556 
+Node #622 | 1 adjacent vertices: 1503 
+Node #623 | 2 adjacent vertices: 857 1603 
+Node #624 | 1 adjacent vertices: 536 
+Node #625 | 1 adjacent vertices: 1389 
+Node #626 | 2 adjacent vertices: 909 1782 
+Node #627 | 1 adjacent vertices: 1700 
+Node #628 | 2 adjacent vertices: 106 793 
+Node #629 | 3 adjacent vertices: 402 1003 1841 
+Node #630 | 2 adjacent vertices: 743 1326 
+Node #631 | 5 adjacent vertices: 2 312 716 1073 1460 
+Node #632 | 1 adjacent vertices: 1325 
+Node #633 | 1 adjacent vertices: 407 
+Node #634 | 2 adjacent vertices: 1063 1208 
+Node #635 | 5 adjacent vertices: 99 456 810 1054 1370 
+Node #636 | 3 adjacent vertices: 9 127 1746 
+Node #637 | 3 adjacent vertices: 305 524 1688 
+Node #638 | 1 adjacent vertices: 544 
+Node #639 | 2 adjacent vertices: 1095 1728 
+Node #640 | 2 adjacent vertices: 720 1941 
+Node #641 | 1 adjacent vertices: 680 
+Node #642 | 3 adjacent vertices: 217 773 796 
+Node #643 | 1 adjacent vertices: 503 
+Node #644 | 5 adjacent vertices: 255 291 928 1005 1681 
+Node #645 | 2 adjacent vertices: 1577 1941 
+Node #646 | 2 adjacent vertices: 465 1534 
+Node #647 | 1 adjacent vertices: 360 
+Node #648 | 2 adjacent vertices: 209 239 
+Node #649 | 2 adjacent vertices: 1071 1981 
+Node #650 | 2 adjacent vertices: 355 1490 
+Node #651 | 2 adjacent vertices: 238 1066 
+Node #652 | 2 adjacent vertices: 256 794 
+Node #653 | 1 adjacent vertices: 993 
+Node #654 | 2 adjacent vertices: 275 1999 
+Node #655 | 1 adjacent vertices: 1330 
+Node #656 | 2 adjacent vertices: 734 1881 
+Node #657 | 3 adjacent vertices: 57 99 1989 
+Node #658 | 1 adjacent vertices: 1382 
+Node #659 | 1 adjacent vertices: 1193 
+Node #660 | 3 adjacent vertices: 901 1485 1898 
+Node #661 | 2 adjacent vertices: 125 746 
+Node #662 | 1 adjacent vertices: 1195 
+Node #663 | 2 adjacent vertices: 534 1575 
+Node #664 | 2 adjacent vertices: 884 1748 
+Node #665 | 2 adjacent vertices: 160 610 
+Node #666 | 1 adjacent vertices: 1674 
+Node #667 | 2 adjacent vertices: 1012 1341 
+Node #668 | 1 adjacent vertices: 915 
+Node #669 | 2 adjacent vertices: 125 571 
+Node #670 | 2 adjacent vertices: 226 1092 
+Node #671 | 3 adjacent vertices: 230 556 1987 
+Node #672 | 1 adjacent vertices: 1251 
+Node #673 | 2 adjacent vertices: 190 1309 
+Node #674 | 6 adjacent vertices: 201 774 809 843 1206 1518 
+Node #675 | 1 adjacent vertices: 179 
+Node #676 | 2 adjacent vertices: 1278 1603 
+Node #677 | 2 adjacent vertices: 1660 1690 
+Node #678 | 4 adjacent vertices: 430 476 892 1758 
+Node #679 | 2 adjacent vertices: 194 1172 
+Node #680 | 2 adjacent vertices: 641 1642 
+Node #681 | 2 adjacent vertices: 256 382 
+Node #682 | 1 adjacent vertices: 1612 
+Node #683 | 2 adjacent vertices: 316 436 
+Node #684 | 2 adjacent vertices: 1706 1727 
+Node #685 | 3 adjacent vertices: 271 465 1887 
+Node #686 | 3 adjacent vertices: 119 144 1282 
+Node #687 | 2 adjacent vertices: 461 728 
+Node #688 | 1 adjacent vertices: 1944 
+Node #689 | 2 adjacent vertices: 1129 1501 
+Node #690 | 1 adjacent vertices: 6 
+Node #691 | 3 adjacent vertices: 194 599 1026 
+Node #692 | 2 adjacent vertices: 272 1979 
+Node #693 | 2 adjacent vertices: 1098 1201 
+Node #694 | 2 adjacent vertices: 232 1769 
+Node #695 | 2 adjacent vertices: 863 1782 
+Node #696 | 3 adjacent vertices: 163 1510 1538 
+Node #697 | 1 adjacent vertices: 1796 
+Node #698 | 2 adjacent vertices: 227 1930 
+Node #699 | 2 adjacent vertices: 1431 1824 
+Node #700 | 1 adjacent vertices: 367 
+Node #701 | 1 adjacent vertices: 1320 
+Node #702 | 3 adjacent vertices: 1214 1300 1418 
+Node #703 | 2 adjacent vertices: 152 1970 
+Node #704 | 2 adjacent vertices: 981 1280 
+Node #705 | 2 adjacent vertices: 261 870 
+Node #706 | 2 adjacent vertices: 501 1497 
+Node #707 | 1 adjacent vertices: 936 
+Node #708 | 3 adjacent vertices: 70 408 1922 
+Node #709 | 1 adjacent vertices: 1745 
+Node #710 | 1 adjacent vertices: 1131 
+Node #711 | 2 adjacent vertices: 1011 1916 
+Node #712 | 2 adjacent vertices: 127 968 
+Node #713 | 3 adjacent vertices: 743 1105 1249 
+Node #714 | 1 adjacent vertices: 352 
+Node #715 | 1 adjacent vertices: 206 
+Node #716 | 1 adjacent vertices: 631 
+Node #717 | 2 adjacent vertices: 471 597 
+Node #718 | 2 adjacent vertices: 900 1020 
+Node #719 | 2 adjacent vertices: 575 1614 
+Node #720 | 4 adjacent vertices: 325 479 640 1703 
+Node #721 | 1 adjacent vertices: 1026 
+Node #722 | 1 adjacent vertices: 1122 
+Node #723 | 2 adjacent vertices: 304 360 
+Node #724 | 2 adjacent vertices: 169 228 
+Node #725 | 2 adjacent vertices: 591 891 
+Node #726 | 1 adjacent vertices: 1519 
+Node #727 | 2 adjacent vertices: 743 1257 
+Node #728 | 2 adjacent vertices: 687 1547 
+Node #729 | 1 adjacent vertices: 1747 
+Node #730 | 2 adjacent vertices: 174 1743 
+Node #731 | 2 adjacent vertices: 1086 1406 
+Node #732 | 3 adjacent vertices: 545 1067 1447 
+Node #733 | 1 adjacent vertices: 1593 
+Node #734 | 3 adjacent vertices: 447 656 1728 
+Node #735 | 2 adjacent vertices: 299 400 
+Node #736 | 2 adjacent vertices: 206 303 
+Node #737 | 2 adjacent vertices: 230 924 
+Node #738 | 2 adjacent vertices: 1337 1909 
+Node #739 | 2 adjacent vertices: 315 480 
+Node #740 | 4 adjacent vertices: 515 1430 1535 1975 
+Node #741 | 1 adjacent vertices: 468 
+Node #742 | 3 adjacent vertices: 28 396 540 
+Node #743 | 5 adjacent vertices: 455 630 713 727 1861 
+Node #744 | 3 adjacent vertices: 27 935 1563 
+Node #745 | 2 adjacent vertices: 990 1101 
+Node #746 | 3 adjacent vertices: 97 421 661 
+Node #747 | 2 adjacent vertices: 194 378 
+Node #748 | 1 adjacent vertices: 1924 
+Node #749 | 2 adjacent vertices: 1225 1681 
+Node #750 | 2 adjacent vertices: 109 1122 
+Node #751 | 1 adjacent vertices: 249 
+Node #752 | 2 adjacent vertices: 916 1060 
+Node #753 | 1 adjacent vertices: 244 
+Node #754 | 1 adjacent vertices: 905 
+Node #755 | 2 adjacent vertices: 219 1640 
+Node #756 | 1 adjacent vertices: 1487 
+Node #757 | 2 adjacent vertices: 425 1711 
+Node #758 | 4 adjacent vertices: 383 812 1445 1737 
+Node #759 | 3 adjacent vertices: 216 527 965 
+Node #760 | 3 adjacent vertices: 76 524 893 
+Node #761 | 1 adjacent vertices: 558 
+Node #762 | 3 adjacent vertices: 184 1179 1933 
+Node #763 | 2 adjacent vertices: 1943 1961 
+Node #764 | 2 adjacent vertices: 503 1693 
+Node #765 | 1 adjacent vertices: 1662 
+Node #766 | 1 adjacent vertices: 343 
+Node #767 | 2 adjacent vertices: 80 1061 
+Node #768 | 2 adjacent vertices: 177 244 
+Node #769 | 3 adjacent vertices: 439 1680 1838 
+Node #770 | 1 adjacent vertices: 1894 
+Node #771 | 2 adjacent vertices: 219 794 
+Node #772 | 2 adjacent vertices: 500 1459 
+Node #773 | 3 adjacent vertices: 572 642 1679 
+Node #774 | 2 adjacent vertices: 674 1431 
+Node #775 | 2 adjacent vertices: 60 64 
+Node #776 | 1 adjacent vertices: 1743 
+Node #777 | 3 adjacent vertices: 359 619 1688 
+Node #778 | 2 adjacent vertices: 489 610 
+Node #779 | 2 adjacent vertices: 20 461 
+Node #780 | 2 adjacent vertices: 1414 1721 
+Node #781 | 4 adjacent vertices: 305 783 1032 1732 
+Node #782 | 1 adjacent vertices: 621 
+Node #783 | 2 adjacent vertices: 781 1036 
+Node #784 | 1 adjacent vertices: 328 
+Node #785 | 2 adjacent vertices: 1527 1670 
+Node #786 | 2 adjacent vertices: 127 421 
+Node #787 | 1 adjacent vertices: 1816 
+Node #788 | 1 adjacent vertices: 304 
+Node #789 | 3 adjacent vertices: 223 1157 1496 
+Node #790 | 1 adjacent vertices: 343 
+Node #791 | 1 adjacent vertices: 828 
+Node #792 | 1 adjacent vertices: 1715 
+Node #793 | 3 adjacent vertices: 185 628 1069 
+Node #794 | 3 adjacent vertices: 297 652 771 
+Node #795 | 2 adjacent vertices: 85 570 
+Node #796 | 2 adjacent vertices: 642 1449 
+Node #797 | 1 adjacent vertices: 1114 
+Node #798 | 2 adjacent vertices: 1386 1983 
+Node #799 | 1 adjacent vertices: 886 
+Node #800 | 1 adjacent vertices: 1147 
+Node #801 | 1 adjacent vertices: 1877 
+Node #802 | 1 adjacent vertices: 1106 
+Node #803 | 2 adjacent vertices: 1318 1999 
+Node #804 | 2 adjacent vertices: 275 520 
+Node #805 | 4 adjacent vertices: 132 407 1323 1371 
+Node #806 | 1 adjacent vertices: 63 
+Node #807 | 1 adjacent vertices: 263 
+Node #808 | 3 adjacent vertices: 172 1622 1716 
+Node #809 | 4 adjacent vertices: 553 563 674 1173 
+Node #810 | 3 adjacent vertices: 635 1056 1133 
+Node #811 | 1 adjacent vertices: 1894 
+Node #812 | 1 adjacent vertices: 758 
+Node #813 | 2 adjacent vertices: 1257 1914 
+Node #814 | 3 adjacent vertices: 891 1027 1138 
+Node #815 | 1 adjacent vertices: 1439 
+Node #816 | 1 adjacent vertices: 1136 
+Node #817 | 3 adjacent vertices: 14 1436 1801 
+Node #818 | 1 adjacent vertices: 1255 
+Node #819 | 3 adjacent vertices: 982 1440 1671 
+Node #820 | 2 adjacent vertices: 842 958 
+Node #821 | 1 adjacent vertices: 1950 
+Node #822 | 2 adjacent vertices: 268 1516 
+Node #823 | 4 adjacent vertices: 1013 1025 1035 1913 
+Node #824 | 1 adjacent vertices: 578 
+Node #825 | 1 adjacent vertices: 1039 
+Node #826 | 4 adjacent vertices: 569 620 1595 1671 
+Node #827 | 2 adjacent vertices: 890 1221 
+Node #828 | 2 adjacent vertices: 505 791 
+Node #829 | 1 adjacent vertices: 1578 
+Node #830 | 2 adjacent vertices: 107 566 
+Node #831 | 1 adjacent vertices: 1652 
+Node #832 | 3 adjacent vertices: 47 949 1456 
+Node #833 | 1 adjacent vertices: 1565 
+Node #834 | 3 adjacent vertices: 4 187 1753 
+Node #835 | 2 adjacent vertices: 1093 1976 
+Node #836 | 3 adjacent vertices: 50 844 1176 
+Node #837 | 2 adjacent vertices: 67 1846 
+Node #838 | 1 adjacent vertices: 591 
+Node #839 | 3 adjacent vertices: 89 574 883 
+Node #840 | 1 adjacent vertices: 1093 
+Node #841 | 2 adjacent vertices: 1248 1579 
+Node #842 | 1 adjacent vertices: 820 
+Node #843 | 2 adjacent vertices: 204 674 
+Node #844 | 2 adjacent vertices: 836 1314 
+Node #845 | 3 adjacent vertices: 431 1212 1848 
+Node #846 | 4 adjacent vertices: 162 281 1565 1643 
+Node #847 | 1 adjacent vertices: 1972 
+Node #848 | 2 adjacent vertices: 1 1504 
+Node #849 | 2 adjacent vertices: 898 1264 
+Node #850 | 1 adjacent vertices: 1412 
+Node #851 | 2 adjacent vertices: 920 959 
+Node #852 | 1 adjacent vertices: 1200 
+Node #853 | 3 adjacent vertices: 32 224 422 
+Node #854 | 1 adjacent vertices: 1984 
+Node #855 | 1 adjacent vertices: 1778 
+Node #856 | 3 adjacent vertices: 902 1071 1641 
+Node #857 | 5 adjacent vertices: 497 623 1161 1582 1931 
+Node #858 | 3 adjacent vertices: 1057 1231 1351 
+Node #859 | 2 adjacent vertices: 1053 1928 
+Node #860 | 1 adjacent vertices: 1509 
+Node #861 | 1 adjacent vertices: 1811 
+Node #862 | 2 adjacent vertices: 905 1933 
+Node #863 | 3 adjacent vertices: 132 695 1317 
+Node #864 | 2 adjacent vertices: 1728 1888 
+Node #865 | 1 adjacent vertices: 1937 
+Node #866 | 2 adjacent vertices: 1401 1645 
+Node #867 | 1 adjacent vertices: 130 
+Node #868 | 2 adjacent vertices: 356 1413 
+Node #869 | 1 adjacent vertices: 589 
+Node #870 | 1 adjacent vertices: 705 
+Node #871 | 3 adjacent vertices: 922 1450 1828 
+Node #872 | 2 adjacent vertices: 168 1885 
+Node #873 | 1 adjacent vertices: 1525 
+Node #874 | 2 adjacent vertices: 1483 1654 
+Node #875 | 2 adjacent vertices: 426 1356 
+Node #876 | 1 adjacent vertices: 1725 
+Node #877 | 2 adjacent vertices: 1649 1728 
+Node #878 | 1 adjacent vertices: 1680 
+Node #879 | 2 adjacent vertices: 1583 1726 
+Node #880 | 1 adjacent vertices: 899 
+Node #881 | 1 adjacent vertices: 1444 
+Node #882 | 1 adjacent vertices: 1037 
+Node #883 | 2 adjacent vertices: 99 839 
+Node #884 | 4 adjacent vertices: 583 664 1476 1960 
+Node #885 | 2 adjacent vertices: 1021 1761 
+Node #886 | 2 adjacent vertices: 229 799 
+Node #887 | 1 adjacent vertices: 899 
+Node #888 | 1 adjacent vertices: 952 
+Node #889 | 3 adjacent vertices: 1581 1644 1904 
+Node #890 | 2 adjacent vertices: 606 827 
+Node #891 | 2 adjacent vertices: 725 814 
+Node #892 | 4 adjacent vertices: 678 967 1554 1744 
+Node #893 | 1 adjacent vertices: 760 
+Node #894 | 2 adjacent vertices: 483 1377 
+Node #895 | 4 adjacent vertices: 26 228 1014 1472 
+Node #896 | 3 adjacent vertices: 424 1049 1832 
+Node #897 | 2 adjacent vertices: 129 494 
+Node #898 | 2 adjacent vertices: 849 1603 
+Node #899 | 4 adjacent vertices: 880 887 1406 1590 
+Node #900 | 1 adjacent vertices: 718 
+Node #901 | 1 adjacent vertices: 660 
+Node #902 | 3 adjacent vertices: 856 1273 1404 
+Node #903 | 2 adjacent vertices: 199 1238 
+Node #904 | 4 adjacent vertices: 258 537 991 1552 
+Node #905 | 3 adjacent vertices: 754 862 931 
+Node #906 | 2 adjacent vertices: 946 1855 
+Node #907 | 2 adjacent vertices: 263 1189 
+Node #908 | 1 adjacent vertices: 511 
+Node #909 | 4 adjacent vertices: 93 626 1321 1456 
+Node #910 | 1 adjacent vertices: 341 
+Node #911 | 1 adjacent vertices: 1410 
+Node #912 | 3 adjacent vertices: 70 171 1919 
+Node #913 | 1 adjacent vertices: 1379 
+Node #914 | 2 adjacent vertices: 339 1861 
+Node #915 | 2 adjacent vertices: 668 1546 
+Node #916 | 1 adjacent vertices: 752 
+Node #917 | 4 adjacent vertices: 39 90 133 975 
+Node #918 | 2 adjacent vertices: 445 1524 
+Node #919 | 1 adjacent vertices: 57 
+Node #920 | 3 adjacent vertices: 23 851 1864 
+Node #921 | 3 adjacent vertices: 1207 1281 1624 
+Node #922 | 1 adjacent vertices: 871 
+Node #923 | 2 adjacent vertices: 1767 1930 
+Node #924 | 1 adjacent vertices: 737 
+Node #925 | 1 adjacent vertices: 1354 
+Node #926 | 3 adjacent vertices: 482 1351 1592 
+Node #927 | 2 adjacent vertices: 251 1786 
+Node #928 | 2 adjacent vertices: 644 1835 
+Node #929 | 2 adjacent vertices: 1195 1957 
+Node #930 | 1 adjacent vertices: 1192 
+Node #931 | 2 adjacent vertices: 905 1062 
+Node #932 | 1 adjacent vertices: 1855 
+Node #933 | 1 adjacent vertices: 400 
+Node #934 | 1 adjacent vertices: 143 
+Node #935 | 2 adjacent vertices: 744 1938 
+Node #936 | 4 adjacent vertices: 63 517 707 1614 
+Node #937 | 1 adjacent vertices: 1089 
+Node #938 | 2 adjacent vertices: 573 1007 
+Node #939 | 3 adjacent vertices: 125 1088 1211 
+Node #940 | 2 adjacent vertices: 67 1235 
+Node #941 | 2 adjacent vertices: 54 1701 
+Node #942 | 2 adjacent vertices: 1792 1887 
+Node #943 | 1 adjacent vertices: 137 
+Node #944 | 3 adjacent vertices: 203 304 1432 
+Node #945 | 2 adjacent vertices: 100 1821 
+Node #946 | 2 adjacent vertices: 35 906 
+Node #947 | 1 adjacent vertices: 184 
+Node #948 | 2 adjacent vertices: 191 400 
+Node #949 | 3 adjacent vertices: 468 832 1243 
+Node #950 | 3 adjacent vertices: 234 593 1899 
+Node #951 | 2 adjacent vertices: 214 1083 
+Node #952 | 3 adjacent vertices: 457 888 1311 
+Node #953 | 2 adjacent vertices: 1464 1779 
+Node #954 | 1 adjacent vertices: 334 
+Node #955 | 3 adjacent vertices: 141 1194 1226 
+Node #956 | 1 adjacent vertices: 1171 
+Node #957 | 3 adjacent vertices: 68 1745 1926 
+Node #958 | 3 adjacent vertices: 347 820 1332 
+Node #959 | 2 adjacent vertices: 851 1006 
+Node #960 | 1 adjacent vertices: 1473 
+Node #961 | 1 adjacent vertices: 525 
+Node #962 | 2 adjacent vertices: 264 1134 
+Node #963 | 2 adjacent vertices: 1438 1680 
+Node #964 | 3 adjacent vertices: 497 522 1277 
+Node #965 | 2 adjacent vertices: 759 1168 
+Node #966 | 2 adjacent vertices: 424 1185 
+Node #967 | 3 adjacent vertices: 892 1122 1382 
+Node #968 | 3 adjacent vertices: 712 1491 1849 
+Node #969 | 2 adjacent vertices: 1194 1784 
+Node #970 | 1 adjacent vertices: 1369 
+Node #971 | 1 adjacent vertices: 268 
+Node #972 | 3 adjacent vertices: 170 1324 1485 
+Node #973 | 2 adjacent vertices: 1457 1609 
+Node #974 | 3 adjacent vertices: 69 406 1954 
+Node #975 | 2 adjacent vertices: 917 1198 
+Node #976 | 1 adjacent vertices: 1709 
+Node #977 | 1 adjacent vertices: 441 
+Node #978 | 1 adjacent vertices: 1453 
+Node #979 | 2 adjacent vertices: 252 1297 
+Node #980 | 3 adjacent vertices: 327 1103 1274 
+Node #981 | 6 adjacent vertices: 16 47 221 365 432 704 
+Node #982 | 2 adjacent vertices: 819 1080 
+Node #983 | 1 adjacent vertices: 83 
+Node #984 | 3 adjacent vertices: 88 1440 1863 
+Node #985 | 2 adjacent vertices: 555 1153 
+Node #986 | 1 adjacent vertices: 1277 
+Node #987 | 3 adjacent vertices: 1386 1409 1973 
+Node #988 | 2 adjacent vertices: 1431 1678 
+Node #989 | 1 adjacent vertices: 609 
+Node #990 | 2 adjacent vertices: 363 745 
+Node #991 | 2 adjacent vertices: 904 1785 
+Node #992 | 2 adjacent vertices: 1486 1752 
+Node #993 | 3 adjacent vertices: 588 653 1009 
+Node #994 | 2 adjacent vertices: 143 584 
+Node #995 | 1 adjacent vertices: 1116 
+Node #996 | 1 adjacent vertices: 1768 
+Node #997 | 1 adjacent vertices: 1360 
+Node #998 | 1 adjacent vertices: 360 
+Node #999 | 1 adjacent vertices: 1969 
+Node #1000 | 2 adjacent vertices: 523 1144 
+Node #1001 | 1 adjacent vertices: 1729 
+Node #1002 | 3 adjacent vertices: 238 1481 1731 
+Node #1003 | 3 adjacent vertices: 148 629 1804 
+Node #1004 | 3 adjacent vertices: 1253 1676 1690 
+Node #1005 | 3 adjacent vertices: 644 1618 1984 
+Node #1006 | 4 adjacent vertices: 131 457 959 1898 
+Node #1007 | 4 adjacent vertices: 938 1058 1400 1575 
+Node #1008 | 1 adjacent vertices: 1437 
+Node #1009 | 2 adjacent vertices: 993 1704 
+Node #1010 | 4 adjacent vertices: 4 105 1260 1768 
+Node #1011 | 1 adjacent vertices: 711 
+Node #1012 | 2 adjacent vertices: 103 667 
+Node #1013 | 3 adjacent vertices: 207 823 1566 
+Node #1014 | 3 adjacent vertices: 895 1146 1974 
+Node #1015 | 2 adjacent vertices: 1022 1966 
+Node #1016 | 1 adjacent vertices: 328 
+Node #1017 | 3 adjacent vertices: 423 581 1196 
+Node #1018 | 1 adjacent vertices: 1353 
+Node #1019 | 2 adjacent vertices: 1329 1759 
+Node #1020 | 3 adjacent vertices: 718 1385 1712 
+Node #1021 | 2 adjacent vertices: 98 885 
+Node #1022 | 2 adjacent vertices: 1015 1332 
+Node #1023 | 3 adjacent vertices: 540 1223 1975 
+Node #1024 | 2 adjacent vertices: 1459 1647 
+Node #1025 | 3 adjacent vertices: 462 823 1599 
+Node #1026 | 3 adjacent vertices: 386 691 721 
+Node #1027 | 4 adjacent vertices: 814 1227 1379 1786 
+Node #1028 | 2 adjacent vertices: 507 1312 
+Node #1029 | 1 adjacent vertices: 1051 
+Node #1030 | 4 adjacent vertices: 516 1197 1215 1654 
+Node #1031 | 1 adjacent vertices: 456 
+Node #1032 | 3 adjacent vertices: 8 781 1169 
+Node #1033 | 1 adjacent vertices: 1787 
+Node #1034 | 3 adjacent vertices: 487 1438 1864 
+Node #1035 | 2 adjacent vertices: 495 823 
+Node #1036 | 4 adjacent vertices: 783 1121 1366 1505 
+Node #1037 | 3 adjacent vertices: 882 1216 1336 
+Node #1038 | 2 adjacent vertices: 575 1859 
+Node #1039 | 3 adjacent vertices: 220 429 825 
+Node #1040 | 2 adjacent vertices: 533 1392 
+Node #1041 | 2 adjacent vertices: 580 1722 
+Node #1042 | 3 adjacent vertices: 1063 1284 1599 
+Node #1043 | 1 adjacent vertices: 1495 
+Node #1044 | 3 adjacent vertices: 253 1252 1403 
+Node #1045 | 2 adjacent vertices: 430 1403 
+Node #1046 | 2 adjacent vertices: 1630 1814 
+Node #1047 | 3 adjacent vertices: 84 94 411 
+Node #1048 | 1 adjacent vertices: 1206 
+Node #1049 | 4 adjacent vertices: 101 896 1342 1519 
+Node #1050 | 3 adjacent vertices: 153 1228 1843 
+Node #1051 | 2 adjacent vertices: 591 1029 
+Node #1052 | 2 adjacent vertices: 139 1969 
+Node #1053 | 3 adjacent vertices: 265 859 1586 
+Node #1054 | 3 adjacent vertices: 166 196 635 
+Node #1055 | 2 adjacent vertices: 1220 1428 
+Node #1056 | 1 adjacent vertices: 810 
+Node #1057 | 4 adjacent vertices: 140 485 858 1549 
+Node #1058 | 3 adjacent vertices: 1007 1827 1851 
+Node #1059 | 2 adjacent vertices: 122 1900 
+Node #1060 | 2 adjacent vertices: 752 1909 
+Node #1061 | 4 adjacent vertices: 204 603 767 1533 
+Node #1062 | 1 adjacent vertices: 931 
+Node #1063 | 2 adjacent vertices: 634 1042 
+Node #1064 | 4 adjacent vertices: 140 343 1102 1869 
+Node #1065 | 3 adjacent vertices: 222 369 1533 
+Node #1066 | 4 adjacent vertices: 189 651 1357 1866 
+Node #1067 | 4 adjacent vertices: 416 732 1126 1903 
+Node #1068 | 2 adjacent vertices: 57 1527 
+Node #1069 | 5 adjacent vertices: 175 218 394 793 1853 
+Node #1070 | 2 adjacent vertices: 1347 1628 
+Node #1071 | 7 adjacent vertices: 384 414 528 649 856 1450 1493 
+Node #1072 | 1 adjacent vertices: 1373 
+Node #1073 | 2 adjacent vertices: 631 1175 
+Node #1074 | 3 adjacent vertices: 43 1297 1672 
+Node #1075 | 2 adjacent vertices: 1129 1697 
+Node #1076 | 2 adjacent vertices: 150 1413 
+Node #1077 | 4 adjacent vertices: 138 355 532 1463 
+Node #1078 | 1 adjacent vertices: 1213 
+Node #1079 | 1 adjacent vertices: 619 
+Node #1080 | 1 adjacent vertices: 982 
+Node #1081 | 1 adjacent vertices: 1408 
+Node #1082 | 2 adjacent vertices: 1112 1562 
+Node #1083 | 2 adjacent vertices: 543 951 
+Node #1084 | 1 adjacent vertices: 267 
+Node #1085 | 1 adjacent vertices: 81 
+Node #1086 | 2 adjacent vertices: 124 731 
+Node #1087 | 2 adjacent vertices: 1430 1748 
+Node #1088 | 1 adjacent vertices: 939 
+Node #1089 | 3 adjacent vertices: 565 937 1739 
+Node #1090 | 2 adjacent vertices: 1315 1904 
+Node #1091 | 4 adjacent vertices: 475 1200 1812 1923 
+Node #1092 | 3 adjacent vertices: 295 670 1479 
+Node #1093 | 3 adjacent vertices: 228 835 840 
+Node #1094 | 1 adjacent vertices: 595 
+Node #1095 | 1 adjacent vertices: 639 
+Node #1096 | 1 adjacent vertices: 1204 
+Node #1097 | 1 adjacent vertices: 461 
+Node #1098 | 4 adjacent vertices: 693 1593 1765 1934 
+Node #1099 | 1 adjacent vertices: 1614 
+Node #1100 | 2 adjacent vertices: 1254 1866 
+Node #1101 | 5 adjacent vertices: 48 745 1202 1464 1572 
+Node #1102 | 3 adjacent vertices: 25 62 1064 
+Node #1103 | 1 adjacent vertices: 980 
+Node #1104 | 1 adjacent vertices: 447 
+Node #1105 | 1 adjacent vertices: 713 
+Node #1106 | 3 adjacent vertices: 109 802 1152 
+Node #1107 | 1 adjacent vertices: 1861 
+Node #1108 | 1 adjacent vertices: 177 
+Node #1109 | 2 adjacent vertices: 1674 1684 
+Node #1110 | 3 adjacent vertices: 53 480 1160 
+Node #1111 | 1 adjacent vertices: 1159 
+Node #1112 | 1 adjacent vertices: 1082 
+Node #1113 | 1 adjacent vertices: 395 
+Node #1114 | 3 adjacent vertices: 463 797 1482 
+Node #1115 | 3 adjacent vertices: 322 1369 1702 
+Node #1116 | 3 adjacent vertices: 476 995 1602 
+Node #1117 | 1 adjacent vertices: 1546 
+Node #1118 | 3 adjacent vertices: 1132 1294 1882 
+Node #1119 | 1 adjacent vertices: 1767 
+Node #1120 | 1 adjacent vertices: 1285 
+Node #1121 | 3 adjacent vertices: 102 1036 1982 
+Node #1122 | 4 adjacent vertices: 215 722 750 967 
+Node #1123 | 1 adjacent vertices: 1933 
+Node #1124 | 2 adjacent vertices: 224 338 
+Node #1125 | 2 adjacent vertices: 1562 1892 
+Node #1126 | 3 adjacent vertices: 78 572 1067 
+Node #1127 | 2 adjacent vertices: 385 1780 
+Node #1128 | 2 adjacent vertices: 375 1374 
+Node #1129 | 2 adjacent vertices: 689 1075 
+Node #1130 | 1 adjacent vertices: 1394 
+Node #1131 | 3 adjacent vertices: 396 710 1982 
+Node #1132 | 3 adjacent vertices: 154 1118 1819 
+Node #1133 | 1 adjacent vertices: 810 
+Node #1134 | 3 adjacent vertices: 567 962 1740 
+Node #1135 | 2 adjacent vertices: 601 1411 
+Node #1136 | 3 adjacent vertices: 261 816 1524 
+Node #1137 | 1 adjacent vertices: 1423 
+Node #1138 | 1 adjacent vertices: 814 
+Node #1139 | 1 adjacent vertices: 1701 
+Node #1140 | 1 adjacent vertices: 1449 
+Node #1141 | 2 adjacent vertices: 443 1295 
+Node #1142 | 1 adjacent vertices: 1212 
+Node #1143 | 3 adjacent vertices: 210 531 1659 
+Node #1144 | 3 adjacent vertices: 42 1000 1154 
+Node #1145 | 1 adjacent vertices: 27 
+Node #1146 | 2 adjacent vertices: 585 1014 
+Node #1147 | 3 adjacent vertices: 318 518 800 
+Node #1148 | 2 adjacent vertices: 354 1574 
+Node #1149 | 1 adjacent vertices: 1717 
+Node #1150 | 2 adjacent vertices: 73 285 
+Node #1151 | 1 adjacent vertices: 1211 
+Node #1152 | 1 adjacent vertices: 1106 
+Node #1153 | 3 adjacent vertices: 985 1486 1604 
+Node #1154 | 3 adjacent vertices: 40 1144 1355 
+Node #1155 | 4 adjacent vertices: 501 1463 1682 1760 
+Node #1156 | 3 adjacent vertices: 10 1167 1702 
+Node #1157 | 2 adjacent vertices: 68 789 
+Node #1158 | 1 adjacent vertices: 1462 
+Node #1159 | 5 adjacent vertices: 277 1111 1850 1883 1894 
+Node #1160 | 2 adjacent vertices: 1110 1519 
+Node #1161 | 3 adjacent vertices: 542 857 1378 
+Node #1162 | 2 adjacent vertices: 372 1876 
+Node #1163 | 1 adjacent vertices: 1264 
+Node #1164 | 5 adjacent vertices: 596 618 1663 1667 1710 
+Node #1165 | 3 adjacent vertices: 572 1190 1843 
+Node #1166 | 2 adjacent vertices: 217 491 
+Node #1167 | 3 adjacent vertices: 368 1156 1191 
+Node #1168 | 1 adjacent vertices: 965 
+Node #1169 | 2 adjacent vertices: 46 1032 
+Node #1170 | 2 adjacent vertices: 1244 1600 
+Node #1171 | 3 adjacent vertices: 414 956 1223 
+Node #1172 | 2 adjacent vertices: 11 679 
+Node #1173 | 4 adjacent vertices: 273 809 1490 1657 
+Node #1174 | 1 adjacent vertices: 1298 
+Node #1175 | 2 adjacent vertices: 1073 1227 
+Node #1176 | 3 adjacent vertices: 836 1759 1943 
+Node #1177 | 2 adjacent vertices: 1467 1883 
+Node #1178 | 1 adjacent vertices: 1591 
+Node #1179 | 2 adjacent vertices: 762 1504 
+Node #1180 | 1 adjacent vertices: 1953 
+Node #1181 | 3 adjacent vertices: 6 228 1651 
+Node #1182 | 2 adjacent vertices: 326 1687 
+Node #1183 | 2 adjacent vertices: 585 1411 
+Node #1184 | 2 adjacent vertices: 1501 1832 
+Node #1185 | 2 adjacent vertices: 966 1822 
+Node #1186 | 3 adjacent vertices: 1197 1288 1445 
+Node #1187 | 1 adjacent vertices: 1351 
+Node #1188 | 1 adjacent vertices: 1891 
+Node #1189 | 2 adjacent vertices: 257 907 
+Node #1190 | 2 adjacent vertices: 1165 1246 
+Node #1191 | 2 adjacent vertices: 1167 1353 
+Node #1192 | 3 adjacent vertices: 211 930 1764 
+Node #1193 | 2 adjacent vertices: 659 1474 
+Node #1194 | 2 adjacent vertices: 955 969 
+Node #1195 | 3 adjacent vertices: 662 929 1784 
+Node #1196 | 1 adjacent vertices: 1017 
+Node #1197 | 2 adjacent vertices: 1030 1186 
+Node #1198 | 1 adjacent vertices: 975 
+Node #1199 | 2 adjacent vertices: 334 505 
+Node #1200 | 3 adjacent vertices: 570 852 1091 
+Node #1201 | 2 adjacent vertices: 572 693 
+Node #1202 | 3 adjacent vertices: 587 1101 1255 
+Node #1203 | 2 adjacent vertices: 1501 1601 
+Node #1204 | 3 adjacent vertices: 194 1096 1733 
+Node #1205 | 1 adjacent vertices: 399 
+Node #1206 | 4 adjacent vertices: 376 674 1048 1668 
+Node #1207 | 2 adjacent vertices: 921 1232 
+Node #1208 | 3 adjacent vertices: 282 634 1972 
+Node #1209 | 2 adjacent vertices: 260 617 
+Node #1210 | 1 adjacent vertices: 1684 
+Node #1211 | 3 adjacent vertices: 335 939 1151 
+Node #1212 | 2 adjacent vertices: 845 1142 
+Node #1213 | 4 adjacent vertices: 147 362 1078 1660 
+Node #1214 | 1 adjacent vertices: 702 
+Node #1215 | 1 adjacent vertices: 1030 
+Node #1216 | 2 adjacent vertices: 184 1037 
+Node #1217 | 1 adjacent vertices: 147 
+Node #1218 | 2 adjacent vertices: 381 514 
+Node #1219 | 1 adjacent vertices: 427 
+Node #1220 | 1 adjacent vertices: 1055 
+Node #1221 | 2 adjacent vertices: 827 1979 
+Node #1222 | 2 adjacent vertices: 511 1780 
+Node #1223 | 4 adjacent vertices: 247 1023 1171 1250 
+Node #1224 | 2 adjacent vertices: 1790 1806 
+Node #1225 | 2 adjacent vertices: 749 1726 
+Node #1226 | 1 adjacent vertices: 955 
+Node #1227 | 2 adjacent vertices: 1027 1175 
+Node #1228 | 2 adjacent vertices: 288 1050 
+Node #1229 | 1 adjacent vertices: 283 
+Node #1230 | 1 adjacent vertices: 1509 
+Node #1231 | 2 adjacent vertices: 858 1917 
+Node #1232 | 1 adjacent vertices: 1207 
+Node #1233 | 1 adjacent vertices: 610 
+Node #1234 | 1 adjacent vertices: 460 
+Node #1235 | 1 adjacent vertices: 940 
+Node #1236 | 1 adjacent vertices: 1361 
+Node #1237 | 1 adjacent vertices: 1486 
+Node #1238 | 3 adjacent vertices: 903 1861 1979 
+Node #1239 | 2 adjacent vertices: 100 348 
+Node #1240 | 4 adjacent vertices: 104 223 445 1694 
+Node #1241 | 2 adjacent vertices: 1897 1906 
+Node #1242 | 1 adjacent vertices: 1639 
+Node #1243 | 1 adjacent vertices: 949 
+Node #1244 | 4 adjacent vertices: 259 1170 1276 1650 
+Node #1245 | 1 adjacent vertices: 342 
+Node #1246 | 2 adjacent vertices: 331 1190 
+Node #1247 | 3 adjacent vertices: 382 404 444 
+Node #1248 | 1 adjacent vertices: 841 
+Node #1249 | 2 adjacent vertices: 713 1967 
+Node #1250 | 1 adjacent vertices: 1223 
+Node #1251 | 3 adjacent vertices: 248 672 1905 
+Node #1252 | 2 adjacent vertices: 294 1044 
+Node #1253 | 1 adjacent vertices: 1004 
+Node #1254 | 2 adjacent vertices: 1100 1420 
+Node #1255 | 3 adjacent vertices: 818 1202 1284 
+Node #1256 | 3 adjacent vertices: 105 225 1625 
+Node #1257 | 2 adjacent vertices: 727 813 
+Node #1258 | 3 adjacent vertices: 2 45 377 
+Node #1259 | 1 adjacent vertices: 393 
+Node #1260 | 1 adjacent vertices: 1010 
+Node #1261 | 1 adjacent vertices: 239 
+Node #1262 | 1 adjacent vertices: 1604 
+Node #1263 | 4 adjacent vertices: 356 440 569 1270 
+Node #1264 | 3 adjacent vertices: 267 849 1163 
+Node #1265 | 1 adjacent vertices: 416 
+Node #1266 | 2 adjacent vertices: 228 1509 
+Node #1267 | 2 adjacent vertices: 563 1806 
+Node #1268 | 3 adjacent vertices: 470 1640 1902 
+Node #1269 | 1 adjacent vertices: 1723 
+Node #1270 | 2 adjacent vertices: 397 1263 
+Node #1271 | 3 adjacent vertices: 6 1319 1788 
+Node #1272 | 1 adjacent vertices: 1620 
+Node #1273 | 1 adjacent vertices: 902 
+Node #1274 | 2 adjacent vertices: 980 1308 
+Node #1275 | 2 adjacent vertices: 487 1880 
+Node #1276 | 1 adjacent vertices: 1244 
+Node #1277 | 3 adjacent vertices: 964 986 1639 
+Node #1278 | 1 adjacent vertices: 676 
+Node #1279 | 2 adjacent vertices: 438 614 
+Node #1280 | 2 adjacent vertices: 704 1966 
+Node #1281 | 3 adjacent vertices: 921 1890 1899 
+Node #1282 | 1 adjacent vertices: 686 
+Node #1283 | 2 adjacent vertices: 101 418 
+Node #1284 | 2 adjacent vertices: 1042 1255 
+Node #1285 | 2 adjacent vertices: 458 1120 
+Node #1286 | 3 adjacent vertices: 235 1303 1777 
+Node #1287 | 2 adjacent vertices: 1361 1589 
+Node #1288 | 2 adjacent vertices: 51 1186 
+Node #1289 | 1 adjacent vertices: 33 
+Node #1290 | 2 adjacent vertices: 106 1325 
+Node #1291 | 1 adjacent vertices: 548 
+Node #1292 | 2 adjacent vertices: 272 1907 
+Node #1293 | 3 adjacent vertices: 1645 1700 1710 
+Node #1294 | 2 adjacent vertices: 166 1118 
+Node #1295 | 2 adjacent vertices: 1141 1473 
+Node #1296 | 2 adjacent vertices: 126 1389 
+Node #1297 | 3 adjacent vertices: 590 979 1074 
+Node #1298 | 3 adjacent vertices: 388 1174 1402 
+Node #1299 | 2 adjacent vertices: 381 1605 
+Node #1300 | 1 adjacent vertices: 702 
+Node #1301 | 2 adjacent vertices: 395 1651 
+Node #1302 | 2 adjacent vertices: 387 1911 
+Node #1303 | 2 adjacent vertices: 323 1286 
+Node #1304 | 3 adjacent vertices: 554 1650 1880 
+Node #1305 | 2 adjacent vertices: 47 373 
+Node #1306 | 3 adjacent vertices: 59 555 1429 
+Node #1307 | 2 adjacent vertices: 150 433 
+Node #1308 | 4 adjacent vertices: 434 1274 1687 1981 
+Node #1309 | 3 adjacent vertices: 289 673 1583 
+Node #1310 | 1 adjacent vertices: 588 
+Node #1311 | 4 adjacent vertices: 107 391 952 1528 
+Node #1312 | 3 adjacent vertices: 602 1028 1834 
+Node #1313 | 1 adjacent vertices: 1627 
+Node #1314 | 3 adjacent vertices: 844 1643 1744 
+Node #1315 | 3 adjacent vertices: 237 1090 1989 
+Node #1316 | 1 adjacent vertices: 85 
+Node #1317 | 2 adjacent vertices: 148 863 
+Node #1318 | 2 adjacent vertices: 803 1719 
+Node #1319 | 2 adjacent vertices: 1271 1831 
+Node #1320 | 2 adjacent vertices: 533 701 
+Node #1321 | 5 adjacent vertices: 144 262 909 1408 1976 
+Node #1322 | 1 adjacent vertices: 172 
+Node #1323 | 2 adjacent vertices: 396 805 
+Node #1324 | 2 adjacent vertices: 972 1331 
+Node #1325 | 3 adjacent vertices: 632 1290 1987 
+Node #1326 | 2 adjacent vertices: 369 630 
+Node #1327 | 2 adjacent vertices: 1450 1540 
+Node #1328 | 1 adjacent vertices: 269 
+Node #1329 | 2 adjacent vertices: 1019 1979 
+Node #1330 | 4 adjacent vertices: 103 655 1511 1831 
+Node #1331 | 1 adjacent vertices: 1324 
+Node #1332 | 2 adjacent vertices: 958 1022 
+Node #1333 | 2 adjacent vertices: 571 1420 
+Node #1334 | 1 adjacent vertices: 1647 
+Node #1335 | 1 adjacent vertices: 1576 
+Node #1336 | 2 adjacent vertices: 618 1037 
+Node #1337 | 4 adjacent vertices: 34 554 738 1685 
+Node #1338 | 3 adjacent vertices: 120 579 1727 
+Node #1339 | 1 adjacent vertices: 305 
+Node #1340 | 1 adjacent vertices: 137 
+Node #1341 | 1 adjacent vertices: 667 
+Node #1342 | 2 adjacent vertices: 1049 1902 
+Node #1343 | 1 adjacent vertices: 1971 
+Node #1344 | 2 adjacent vertices: 294 1817 
+Node #1345 | 2 adjacent vertices: 1893 1953 
+Node #1346 | 2 adjacent vertices: 66 1413 
+Node #1347 | 3 adjacent vertices: 380 508 1070 
+Node #1348 | 2 adjacent vertices: 96 393 
+Node #1349 | 2 adjacent vertices: 50 568 
+Node #1350 | 2 adjacent vertices: 3 198 
+Node #1351 | 4 adjacent vertices: 409 858 926 1187 
+Node #1352 | 3 adjacent vertices: 1830 1910 1946 
+Node #1353 | 4 adjacent vertices: 175 1018 1191 1646 
+Node #1354 | 2 adjacent vertices: 83 925 
+Node #1355 | 3 adjacent vertices: 388 1154 1624 
+Node #1356 | 3 adjacent vertices: 49 875 1817 
+Node #1357 | 1 adjacent vertices: 1066 
+Node #1358 | 1 adjacent vertices: 604 
+Node #1359 | 3 adjacent vertices: 439 1364 1673 
+Node #1360 | 2 adjacent vertices: 437 997 
+Node #1361 | 5 adjacent vertices: 274 389 436 1236 1287 
+Node #1362 | 2 adjacent vertices: 1468 1763 
+Node #1363 | 1 adjacent vertices: 1459 
+Node #1364 | 1 adjacent vertices: 1359 
+Node #1365 | 4 adjacent vertices: 486 1465 1736 1762 
+Node #1366 | 1 adjacent vertices: 1036 
+Node #1367 | 1 adjacent vertices: 1977 
+Node #1368 | 3 adjacent vertices: 316 605 1799 
+Node #1369 | 5 adjacent vertices: 455 970 1115 1412 1480 
+Node #1370 | 1 adjacent vertices: 635 
+Node #1371 | 1 adjacent vertices: 805 
+Node #1372 | 2 adjacent vertices: 134 1661 
+Node #1373 | 2 adjacent vertices: 36 1072 
+Node #1374 | 2 adjacent vertices: 449 1128 
+Node #1375 | 1 adjacent vertices: 429 
+Node #1376 | 1 adjacent vertices: 281 
+Node #1377 | 2 adjacent vertices: 894 1988 
+Node #1378 | 1 adjacent vertices: 1161 
+Node #1379 | 4 adjacent vertices: 113 463 913 1027 
+Node #1380 | 2 adjacent vertices: 560 1462 
+Node #1381 | 2 adjacent vertices: 1516 1964 
+Node #1382 | 4 adjacent vertices: 254 305 658 967 
+Node #1383 | 1 adjacent vertices: 1644 
+Node #1384 | 1 adjacent vertices: 1692 
+Node #1385 | 2 adjacent vertices: 389 1020 
+Node #1386 | 4 adjacent vertices: 438 798 987 1704 
+Node #1387 | 2 adjacent vertices: 1509 1811 
+Node #1388 | 2 adjacent vertices: 1542 1807 
+Node #1389 | 3 adjacent vertices: 625 1296 1403 
+Node #1390 | 1 adjacent vertices: 1948 
+Node #1391 | 1 adjacent vertices: 244 
+Node #1392 | 3 adjacent vertices: 191 1040 1541 
+Node #1393 | 1 adjacent vertices: 63 
+Node #1394 | 2 adjacent vertices: 55 1130 
+Node #1395 | 2 adjacent vertices: 1550 1781 
+Node #1396 | 1 adjacent vertices: 1825 
+Node #1397 | 1 adjacent vertices: 1443 
+Node #1398 | 1 adjacent vertices: 1879 
+Node #1399 | 1 adjacent vertices: 141 
+Node #1400 | 2 adjacent vertices: 558 1007 
+Node #1401 | 2 adjacent vertices: 866 1820 
+Node #1402 | 2 adjacent vertices: 1298 1854 
+Node #1403 | 3 adjacent vertices: 1044 1045 1389 
+Node #1404 | 2 adjacent vertices: 506 902 
+Node #1405 | 1 adjacent vertices: 427 
+Node #1406 | 3 adjacent vertices: 731 899 1826 
+Node #1407 | 1 adjacent vertices: 1536 
+Node #1408 | 3 adjacent vertices: 283 1081 1321 
+Node #1409 | 1 adjacent vertices: 987 
+Node #1410 | 3 adjacent vertices: 77 563 911 
+Node #1411 | 3 adjacent vertices: 392 1135 1183 
+Node #1412 | 4 adjacent vertices: 503 850 1369 1620 
+Node #1413 | 4 adjacent vertices: 868 1076 1346 1998 
+Node #1414 | 2 adjacent vertices: 135 780 
+Node #1415 | 1 adjacent vertices: 547 
+Node #1416 | 2 adjacent vertices: 1419 1609 
+Node #1417 | 2 adjacent vertices: 1578 1648 
+Node #1418 | 2 adjacent vertices: 409 702 
+Node #1419 | 2 adjacent vertices: 301 1416 
+Node #1420 | 3 adjacent vertices: 302 1254 1333 
+Node #1421 | 1 adjacent vertices: 357 
+Node #1422 | 3 adjacent vertices: 12 554 1846 
+Node #1423 | 4 adjacent vertices: 615 1137 1472 1524 
+Node #1424 | 2 adjacent vertices: 421 472 
+Node #1425 | 2 adjacent vertices: 420 570 
+Node #1426 | 2 adjacent vertices: 1427 1777 
+Node #1427 | 4 adjacent vertices: 246 1426 1435 1509 
+Node #1428 | 3 adjacent vertices: 350 1055 1863 
+Node #1429 | 2 adjacent vertices: 5 1306 
+Node #1430 | 4 adjacent vertices: 195 740 1087 1940 
+Node #1431 | 3 adjacent vertices: 699 774 988 
+Node #1432 | 3 adjacent vertices: 172 616 944 
+Node #1433 | 1 adjacent vertices: 38 
+Node #1434 | 1 adjacent vertices: 1819 
+Node #1435 | 2 adjacent vertices: 288 1427 
+Node #1436 | 1 adjacent vertices: 817 
+Node #1437 | 4 adjacent vertices: 192 473 1008 1645 
+Node #1438 | 3 adjacent vertices: 963 1034 1740 
+Node #1439 | 3 adjacent vertices: 252 490 815 
+Node #1440 | 3 adjacent vertices: 819 984 1750 
+Node #1441 | 1 adjacent vertices: 1526 
+Node #1442 | 3 adjacent vertices: 343 1444 1626 
+Node #1443 | 2 adjacent vertices: 1397 1487 
+Node #1444 | 6 adjacent vertices: 31 130 245 394 881 1442 
+Node #1445 | 2 adjacent vertices: 758 1186 
+Node #1446 | 1 adjacent vertices: 387 
+Node #1447 | 2 adjacent vertices: 356 732 
+Node #1448 | 1 adjacent vertices: 336 
+Node #1449 | 3 adjacent vertices: 796 1140 1808 
+Node #1450 | 5 adjacent vertices: 124 220 871 1071 1327 
+Node #1451 | 2 adjacent vertices: 61 1670 
+Node #1452 | 1 adjacent vertices: 1505 
+Node #1453 | 2 adjacent vertices: 137 978 
+Node #1454 | 1 adjacent vertices: 1546 
+Node #1455 | 1 adjacent vertices: 1926 
+Node #1456 | 2 adjacent vertices: 832 909 
+Node #1457 | 2 adjacent vertices: 973 1724 
+Node #1458 | 2 adjacent vertices: 525 557 
+Node #1459 | 3 adjacent vertices: 772 1024 1363 
+Node #1460 | 1 adjacent vertices: 631 
+Node #1461 | 2 adjacent vertices: 1597 1617 
+Node #1462 | 5 adjacent vertices: 390 1158 1380 1546 1844 
+Node #1463 | 5 adjacent vertices: 323 390 1077 1155 1944 
+Node #1464 | 3 adjacent vertices: 7 953 1101 
+Node #1465 | 1 adjacent vertices: 1365 
+Node #1466 | 2 adjacent vertices: 489 582 
+Node #1467 | 3 adjacent vertices: 1177 1756 1970 
+Node #1468 | 1 adjacent vertices: 1362 
+Node #1469 | 1 adjacent vertices: 1545 
+Node #1470 | 1 adjacent vertices: 1667 
+Node #1471 | 3 adjacent vertices: 346 1713 1952 
+Node #1472 | 2 adjacent vertices: 895 1423 
+Node #1473 | 3 adjacent vertices: 960 1295 1645 
+Node #1474 | 2 adjacent vertices: 186 1193 
+Node #1475 | 2 adjacent vertices: 170 1986 
+Node #1476 | 2 adjacent vertices: 403 884 
+Node #1477 | 3 adjacent vertices: 248 573 575 
+Node #1478 | 1 adjacent vertices: 526 
+Node #1479 | 1 adjacent vertices: 1092 
+Node #1480 | 2 adjacent vertices: 1369 1775 
+Node #1481 | 2 adjacent vertices: 1002 1831 
+Node #1482 | 1 adjacent vertices: 1114 
+Node #1483 | 2 adjacent vertices: 874 1666 
+Node #1484 | 2 adjacent vertices: 601 1491 
+Node #1485 | 4 adjacent vertices: 136 660 972 1971 
+Node #1486 | 4 adjacent vertices: 451 992 1153 1237 
+Node #1487 | 3 adjacent vertices: 400 756 1443 
+Node #1488 | 3 adjacent vertices: 333 1958 1985 
+Node #1489 | 1 adjacent vertices: 30 
+Node #1490 | 2 adjacent vertices: 650 1173 
+Node #1491 | 3 adjacent vertices: 45 968 1484 
+Node #1492 | 1 adjacent vertices: 1999 
+Node #1493 | 3 adjacent vertices: 502 550 1071 
+Node #1494 | 1 adjacent vertices: 124 
+Node #1495 | 2 adjacent vertices: 6 1043 
+Node #1496 | 2 adjacent vertices: 168 789 
+Node #1497 | 2 adjacent vertices: 706 1878 
+Node #1498 | 1 adjacent vertices: 1535 
+Node #1499 | 1 adjacent vertices: 151 
+Node #1500 | 1 adjacent vertices: 604 
+Node #1501 | 3 adjacent vertices: 689 1184 1203 
+Node #1502 | 3 adjacent vertices: 82 498 561 
+Node #1503 | 2 adjacent vertices: 379 622 
+Node #1504 | 2 adjacent vertices: 848 1179 
+Node #1505 | 2 adjacent vertices: 1036 1452 
+Node #1506 | 2 adjacent vertices: 549 1564 
+Node #1507 | 1 adjacent vertices: 1604 
+Node #1508 | 2 adjacent vertices: 450 1609 
+Node #1509 | 6 adjacent vertices: 55 860 1230 1266 1387 1427 
+Node #1510 | 2 adjacent vertices: 696 1947 
+Node #1511 | 2 adjacent vertices: 119 1330 
+Node #1512 | 2 adjacent vertices: 430 1802 
+Node #1513 | 1 adjacent vertices: 1810 
+Node #1514 | 4 adjacent vertices: 230 328 556 1776 
+Node #1515 | 3 adjacent vertices: 115 1921 1955 
+Node #1516 | 2 adjacent vertices: 822 1381 
+Node #1517 | 1 adjacent vertices: 61 
+Node #1518 | 1 adjacent vertices: 674 
+Node #1519 | 4 adjacent vertices: 193 726 1049 1160 
+Node #1520 | 2 adjacent vertices: 91 1942 
+Node #1521 | 1 adjacent vertices: 1847 
+Node #1522 | 1 adjacent vertices: 128 
+Node #1523 | 2 adjacent vertices: 90 480 
+Node #1524 | 4 adjacent vertices: 578 918 1136 1423 
+Node #1525 | 3 adjacent vertices: 252 873 1683 
+Node #1526 | 3 adjacent vertices: 412 449 1441 
+Node #1527 | 5 adjacent vertices: 342 568 785 1068 1707 
+Node #1528 | 3 adjacent vertices: 163 354 1311 
+Node #1529 | 1 adjacent vertices: 336 
+Node #1530 | 1 adjacent vertices: 211 
+Node #1531 | 2 adjacent vertices: 1915 1997 
+Node #1532 | 1 adjacent vertices: 1539 
+Node #1533 | 2 adjacent vertices: 1061 1065 
+Node #1534 | 3 adjacent vertices: 498 594 646 
+Node #1535 | 4 adjacent vertices: 165 379 740 1498 
+Node #1536 | 2 adjacent vertices: 97 1407 
+Node #1537 | 1 adjacent vertices: 1548 
+Node #1538 | 2 adjacent vertices: 364 696 
+Node #1539 | 2 adjacent vertices: 58 1532 
+Node #1540 | 2 adjacent vertices: 111 1327 
+Node #1541 | 3 adjacent vertices: 3 270 1392 
+Node #1542 | 4 adjacent vertices: 214 266 1388 1795 
+Node #1543 | 2 adjacent vertices: 109 600 
+Node #1544 | 2 adjacent vertices: 428 1554 
+Node #1545 | 3 adjacent vertices: 296 1469 1692 
+Node #1546 | 6 adjacent vertices: 208 383 915 1117 1454 1462 
+Node #1547 | 2 adjacent vertices: 530 728 
+Node #1548 | 2 adjacent vertices: 358 1537 
+Node #1549 | 2 adjacent vertices: 345 1057 
+Node #1550 | 4 adjacent vertices: 242 1395 1637 1888 
+Node #1551 | 2 adjacent vertices: 449 611 
+Node #1552 | 1 adjacent vertices: 904 
+Node #1553 | 1 adjacent vertices: 17 
+Node #1554 | 3 adjacent vertices: 64 892 1544 
+Node #1555 | 1 adjacent vertices: 174 
+Node #1556 | 1 adjacent vertices: 621 
+Node #1557 | 2 adjacent vertices: 1693 1874 
+Node #1558 | 2 adjacent vertices: 234 331 
+Node #1559 | 1 adjacent vertices: 1932 
+Node #1560 | 1 adjacent vertices: 29 
+Node #1561 | 1 adjacent vertices: 445 
+Node #1562 | 3 adjacent vertices: 199 1082 1125 
+Node #1563 | 2 adjacent vertices: 744 1921 
+Node #1564 | 1 adjacent vertices: 1506 
+Node #1565 | 4 adjacent vertices: 173 833 846 1739 
+Node #1566 | 2 adjacent vertices: 490 1013 
+Node #1567 | 1 adjacent vertices: 1955 
+Node #1568 | 2 adjacent vertices: 394 1634 
+Node #1569 | 1 adjacent vertices: 1709 
+Node #1570 | 1 adjacent vertices: 13 
+Node #1571 | 1 adjacent vertices: 73 
+Node #1572 | 1 adjacent vertices: 1101 
+Node #1573 | 1 adjacent vertices: 1753 
+Node #1574 | 3 adjacent vertices: 183 423 1148 
+Node #1575 | 3 adjacent vertices: 1 663 1007 
+Node #1576 | 2 adjacent vertices: 49 1335 
+Node #1577 | 2 adjacent vertices: 566 645 
+Node #1578 | 4 adjacent vertices: 112 829 1417 1735 
+Node #1579 | 2 adjacent vertices: 407 841 
+Node #1580 | 1 adjacent vertices: 1623 
+Node #1581 | 3 adjacent vertices: 388 889 1624 
+Node #1582 | 1 adjacent vertices: 857 
+Node #1583 | 2 adjacent vertices: 879 1309 
+Node #1584 | 1 adjacent vertices: 1993 
+Node #1585 | 2 adjacent vertices: 84 101 
+Node #1586 | 2 adjacent vertices: 1053 1780 
+Node #1587 | 1 adjacent vertices: 614 
+Node #1588 | 1 adjacent vertices: 146 
+Node #1589 | 1 adjacent vertices: 1287 
+Node #1590 | 2 adjacent vertices: 401 899 
+Node #1591 | 2 adjacent vertices: 527 1178 
+Node #1592 | 2 adjacent vertices: 84 926 
+Node #1593 | 2 adjacent vertices: 733 1098 
+Node #1594 | 1 adjacent vertices: 448 
+Node #1595 | 2 adjacent vertices: 826 1942 
+Node #1596 | 1 adjacent vertices: 296 
+Node #1597 | 1 adjacent vertices: 1461 
+Node #1598 | 2 adjacent vertices: 41 1897 
+Node #1599 | 2 adjacent vertices: 1025 1042 
+Node #1600 | 1 adjacent vertices: 1170 
+Node #1601 | 3 adjacent vertices: 608 1203 1910 
+Node #1602 | 2 adjacent vertices: 1116 1778 
+Node #1603 | 4 adjacent vertices: 623 676 898 1926 
+Node #1604 | 4 adjacent vertices: 15 1153 1262 1507 
+Node #1605 | 2 adjacent vertices: 52 1299 
+Node #1606 | 1 adjacent vertices: 1982 
+Node #1607 | 2 adjacent vertices: 28 65 
+Node #1608 | 1 adjacent vertices: 217 
+Node #1609 | 5 adjacent vertices: 973 1416 1508 1718 1794 
+Node #1610 | 1 adjacent vertices: 472 
+Node #1611 | 1 adjacent vertices: 1840 
+Node #1612 | 2 adjacent vertices: 682 1694 
+Node #1613 | 1 adjacent vertices: 1681 
+Node #1614 | 3 adjacent vertices: 719 936 1099 
+Node #1615 | 1 adjacent vertices: 39 
+Node #1616 | 1 adjacent vertices: 134 
+Node #1617 | 3 adjacent vertices: 124 280 1461 
+Node #1618 | 1 adjacent vertices: 1005 
+Node #1619 | 1 adjacent vertices: 280 
+Node #1620 | 2 adjacent vertices: 1272 1412 
+Node #1621 | 2 adjacent vertices: 513 1904 
+Node #1622 | 4 adjacent vertices: 122 270 507 808 
+Node #1623 | 2 adjacent vertices: 1580 1848 
+Node #1624 | 4 adjacent vertices: 106 921 1355 1581 
+Node #1625 | 1 adjacent vertices: 1256 
+Node #1626 | 2 adjacent vertices: 1442 1791 
+Node #1627 | 2 adjacent vertices: 3 1313 
+Node #1628 | 3 adjacent vertices: 123 496 1070 
+Node #1629 | 1 adjacent vertices: 1688 
+Node #1630 | 1 adjacent vertices: 1046 
+Node #1631 | 1 adjacent vertices: 592 
+Node #1632 | 1 adjacent vertices: 1951 
+Node #1633 | 1 adjacent vertices: 514 
+Node #1634 | 1 adjacent vertices: 1568 
+Node #1635 | 1 adjacent vertices: 1966 
+Node #1636 | 1 adjacent vertices: 165 
+Node #1637 | 2 adjacent vertices: 1550 1963 
+Node #1638 | 1 adjacent vertices: 383 
+Node #1639 | 4 adjacent vertices: 382 1242 1277 1893 
+Node #1640 | 3 adjacent vertices: 164 755 1268 
+Node #1641 | 1 adjacent vertices: 856 
+Node #1642 | 3 adjacent vertices: 222 680 1766 
+Node #1643 | 5 adjacent vertices: 846 1314 1842 1897 1935 
+Node #1644 | 4 adjacent vertices: 188 538 889 1383 
+Node #1645 | 4 adjacent vertices: 866 1293 1437 1473 
+Node #1646 | 2 adjacent vertices: 180 1353 
+Node #1647 | 2 adjacent vertices: 1024 1334 
+Node #1648 | 1 adjacent vertices: 1417 
+Node #1649 | 3 adjacent vertices: 359 877 1705 
+Node #1650 | 2 adjacent vertices: 1244 1304 
+Node #1651 | 2 adjacent vertices: 1181 1301 
+Node #1652 | 2 adjacent vertices: 615 831 
+Node #1653 | 2 adjacent vertices: 23 464 
+Node #1654 | 2 adjacent vertices: 874 1030 
+Node #1655 | 2 adjacent vertices: 1665 1970 
+Node #1656 | 1 adjacent vertices: 73 
+Node #1657 | 2 adjacent vertices: 1173 1848 
+Node #1658 | 2 adjacent vertices: 1891 1974 
+Node #1659 | 1 adjacent vertices: 1143 
+Node #1660 | 2 adjacent vertices: 677 1213 
+Node #1661 | 1 adjacent vertices: 1372 
+Node #1662 | 2 adjacent vertices: 87 765 
+Node #1663 | 2 adjacent vertices: 1164 1718 
+Node #1664 | 1 adjacent vertices: 238 
+Node #1665 | 1 adjacent vertices: 1655 
+Node #1666 | 2 adjacent vertices: 444 1483 
+Node #1667 | 3 adjacent vertices: 403 1164 1470 
+Node #1668 | 2 adjacent vertices: 548 1206 
+Node #1669 | 2 adjacent vertices: 218 342 
+Node #1670 | 3 adjacent vertices: 576 785 1451 
+Node #1671 | 2 adjacent vertices: 819 826 
+Node #1672 | 2 adjacent vertices: 1074 1815 
+Node #1673 | 1 adjacent vertices: 1359 
+Node #1674 | 3 adjacent vertices: 493 666 1109 
+Node #1675 | 3 adjacent vertices: 1701 1847 1964 
+Node #1676 | 1 adjacent vertices: 1004 
+Node #1677 | 1 adjacent vertices: 1846 
+Node #1678 | 2 adjacent vertices: 988 1931 
+Node #1679 | 1 adjacent vertices: 773 
+Node #1680 | 5 adjacent vertices: 349 557 769 878 963 
+Node #1681 | 3 adjacent vertices: 644 749 1613 
+Node #1682 | 3 adjacent vertices: 233 1155 1955 
+Node #1683 | 1 adjacent vertices: 1525 
+Node #1684 | 2 adjacent vertices: 1109 1210 
+Node #1685 | 1 adjacent vertices: 1337 
+Node #1686 | 2 adjacent vertices: 529 1847 
+Node #1687 | 2 adjacent vertices: 1182 1308 
+Node #1688 | 4 adjacent vertices: 510 637 777 1629 
+Node #1689 | 1 adjacent vertices: 1821 
+Node #1690 | 3 adjacent vertices: 677 1004 1863 
+Node #1691 | 2 adjacent vertices: 1723 1924 
+Node #1692 | 3 adjacent vertices: 300 1384 1545 
+Node #1693 | 3 adjacent vertices: 521 764 1557 
+Node #1694 | 3 adjacent vertices: 547 1240 1612 
+Node #1695 | 3 adjacent vertices: 198 1783 1916 
+Node #1696 | 3 adjacent vertices: 420 1787 1809 
+Node #1697 | 1 adjacent vertices: 1075 
+Node #1698 | 2 adjacent vertices: 469 538 
+Node #1699 | 1 adjacent vertices: 1978 
+Node #1700 | 3 adjacent vertices: 627 1293 1921 
+Node #1701 | 4 adjacent vertices: 941 1139 1675 1894 
+Node #1702 | 2 adjacent vertices: 1115 1156 
+Node #1703 | 1 adjacent vertices: 720 
+Node #1704 | 3 adjacent vertices: 574 1009 1386 
+Node #1705 | 5 adjacent vertices: 474 1649 1745 1763 1789 
+Node #1706 | 1 adjacent vertices: 684 
+Node #1707 | 2 adjacent vertices: 390 1527 
+Node #1708 | 2 adjacent vertices: 1728 1848 
+Node #1709 | 3 adjacent vertices: 24 976 1569 
+Node #1710 | 2 adjacent vertices: 1164 1293 
+Node #1711 | 2 adjacent vertices: 181 757 
+Node #1712 | 2 adjacent vertices: 351 1020 
+Node #1713 | 1 adjacent vertices: 1471 
+Node #1714 | 1 adjacent vertices: 282 
+Node #1715 | 4 adjacent vertices: 129 330 792 1733 
+Node #1716 | 2 adjacent vertices: 808 1965 
+Node #1717 | 2 adjacent vertices: 130 1149 
+Node #1718 | 2 adjacent vertices: 1609 1663 
+Node #1719 | 1 adjacent vertices: 1318 
+Node #1720 | 3 adjacent vertices: 156 303 1818 
+Node #1721 | 2 adjacent vertices: 340 780 
+Node #1722 | 3 adjacent vertices: 1041 1734 1840 
+Node #1723 | 4 adjacent vertices: 201 593 1269 1691 
+Node #1724 | 2 adjacent vertices: 614 1457 
+Node #1725 | 2 adjacent vertices: 281 876 
+Node #1726 | 5 adjacent vertices: 282 441 879 1225 1984 
+Node #1727 | 4 adjacent vertices: 292 684 1338 1877 
+Node #1728 | 5 adjacent vertices: 639 734 864 877 1708 
+Node #1729 | 2 adjacent vertices: 523 1001 
+Node #1730 | 1 adjacent vertices: 207 
+Node #1731 | 1 adjacent vertices: 1002 
+Node #1732 | 3 adjacent vertices: 198 781 1977 
+Node #1733 | 2 adjacent vertices: 1204 1715 
+Node #1734 | 1 adjacent vertices: 1722 
+Node #1735 | 3 adjacent vertices: 1578 1813 1937 
+Node #1736 | 2 adjacent vertices: 320 1365 
+Node #1737 | 1 adjacent vertices: 758 
+Node #1738 | 1 adjacent vertices: 327 
+Node #1739 | 2 adjacent vertices: 1089 1565 
+Node #1740 | 2 adjacent vertices: 1134 1438 
+Node #1741 | 2 adjacent vertices: 1806 1843 
+Node #1742 | 2 adjacent vertices: 322 1751 
+Node #1743 | 3 adjacent vertices: 154 730 776 
+Node #1744 | 2 adjacent vertices: 892 1314 
+Node #1745 | 4 adjacent vertices: 259 709 957 1705 
+Node #1746 | 3 adjacent vertices: 636 1799 1912 
+Node #1747 | 2 adjacent vertices: 122 729 
+Node #1748 | 2 adjacent vertices: 664 1087 
+Node #1749 | 2 adjacent vertices: 299 458 
+Node #1750 | 1 adjacent vertices: 1440 
+Node #1751 | 2 adjacent vertices: 497 1742 
+Node #1752 | 1 adjacent vertices: 992 
+Node #1753 | 2 adjacent vertices: 834 1573 
+Node #1754 | 2 adjacent vertices: 1793 1943 
+Node #1755 | 2 adjacent vertices: 284 449 
+Node #1756 | 1 adjacent vertices: 1467 
+Node #1757 | 1 adjacent vertices: 280 
+Node #1758 | 2 adjacent vertices: 100 678 
+Node #1759 | 3 adjacent vertices: 91 1019 1176 
+Node #1760 | 2 adjacent vertices: 22 1155 
+Node #1761 | 2 adjacent vertices: 582 885 
+Node #1762 | 2 adjacent vertices: 178 1365 
+Node #1763 | 2 adjacent vertices: 1362 1705 
+Node #1764 | 2 adjacent vertices: 600 1192 
+Node #1765 | 2 adjacent vertices: 252 1098 
+Node #1766 | 1 adjacent vertices: 1642 
+Node #1767 | 4 adjacent vertices: 128 317 923 1119 
+Node #1768 | 2 adjacent vertices: 996 1010 
+Node #1769 | 2 adjacent vertices: 694 1970 
+Node #1770 | 1 adjacent vertices: 1882 
+Node #1771 | 2 adjacent vertices: 144 1949 
+Node #1772 | 1 adjacent vertices: 1813 
+Node #1773 | 2 adjacent vertices: 374 557 
+Node #1774 | 1 adjacent vertices: 298 
+Node #1775 | 2 adjacent vertices: 506 1480 
+Node #1776 | 1 adjacent vertices: 1514 
+Node #1777 | 4 adjacent vertices: 179 370 1286 1426 
+Node #1778 | 2 adjacent vertices: 855 1602 
+Node #1779 | 2 adjacent vertices: 454 953 
+Node #1780 | 3 adjacent vertices: 1127 1222 1586 
+Node #1781 | 1 adjacent vertices: 1395 
+Node #1782 | 2 adjacent vertices: 626 695 
+Node #1783 | 4 adjacent vertices: 578 610 612 1695 
+Node #1784 | 3 adjacent vertices: 229 969 1195 
+Node #1785 | 1 adjacent vertices: 991 
+Node #1786 | 2 adjacent vertices: 927 1027 
+Node #1787 | 2 adjacent vertices: 1033 1696 
+Node #1788 | 1 adjacent vertices: 1271 
+Node #1789 | 3 adjacent vertices: 155 375 1705 
+Node #1790 | 1 adjacent vertices: 1224 
+Node #1791 | 3 adjacent vertices: 67 426 1626 
+Node #1792 | 1 adjacent vertices: 942 
+Node #1793 | 1 adjacent vertices: 1754 
+Node #1794 | 2 adjacent vertices: 483 1609 
+Node #1795 | 1 adjacent vertices: 1542 
+Node #1796 | 4 adjacent vertices: 6 298 477 697 
+Node #1797 | 1 adjacent vertices: 126 
+Node #1798 | 3 adjacent vertices: 212 246 519 
+Node #1799 | 2 adjacent vertices: 1368 1746 
+Node #1800 | 1 adjacent vertices: 448 
+Node #1801 | 2 adjacent vertices: 94 817 
+Node #1802 | 1 adjacent vertices: 1512 
+Node #1803 | 1 adjacent vertices: 261 
+Node #1804 | 1 adjacent vertices: 1003 
+Node #1805 | 2 adjacent vertices: 163 207 
+Node #1806 | 3 adjacent vertices: 1224 1267 1741 
+Node #1807 | 3 adjacent vertices: 90 517 1388 
+Node #1808 | 1 adjacent vertices: 1449 
+Node #1809 | 1 adjacent vertices: 1696 
+Node #1810 | 2 adjacent vertices: 1513 1822 
+Node #1811 | 2 adjacent vertices: 861 1387 
+Node #1812 | 3 adjacent vertices: 398 1091 1995 
+Node #1813 | 3 adjacent vertices: 518 1735 1772 
+Node #1814 | 4 adjacent vertices: 129 1046 1856 1965 
+Node #1815 | 1 adjacent vertices: 1672 
+Node #1816 | 2 adjacent vertices: 787 1861 
+Node #1817 | 3 adjacent vertices: 442 1344 1356 
+Node #1818 | 1 adjacent vertices: 1720 
+Node #1819 | 2 adjacent vertices: 1132 1434 
+Node #1820 | 1 adjacent vertices: 1401 
+Node #1821 | 2 adjacent vertices: 945 1689 
+Node #1822 | 4 adjacent vertices: 1185 1810 1875 1910 
+Node #1823 | 2 adjacent vertices: 343 1915 
+Node #1824 | 2 adjacent vertices: 121 699 
+Node #1825 | 3 adjacent vertices: 126 393 1396 
+Node #1826 | 2 adjacent vertices: 238 1406 
+Node #1827 | 1 adjacent vertices: 1058 
+Node #1828 | 1 adjacent vertices: 871 
+Node #1829 | 1 adjacent vertices: 450 
+Node #1830 | 2 adjacent vertices: 426 1352 
+Node #1831 | 3 adjacent vertices: 1319 1330 1481 
+Node #1832 | 2 adjacent vertices: 896 1184 
+Node #1833 | 1 adjacent vertices: 291 
+Node #1834 | 3 adjacent vertices: 20 1312 1933 
+Node #1835 | 3 adjacent vertices: 18 252 928 
+Node #1836 | 2 adjacent vertices: 341 454 
+Node #1837 | 2 adjacent vertices: 26 197 
+Node #1838 | 1 adjacent vertices: 769 
+Node #1839 | 2 adjacent vertices: 159 255 
+Node #1840 | 3 adjacent vertices: 1611 1722 1867 
+Node #1841 | 2 adjacent vertices: 592 629 
+Node #1842 | 1 adjacent vertices: 1643 
+Node #1843 | 4 adjacent vertices: 17 1050 1165 1741 
+Node #1844 | 1 adjacent vertices: 1462 
+Node #1845 | 1 adjacent vertices: 1960 
+Node #1846 | 3 adjacent vertices: 837 1422 1677 
+Node #1847 | 3 adjacent vertices: 1521 1675 1686 
+Node #1848 | 4 adjacent vertices: 845 1623 1657 1708 
+Node #1849 | 2 adjacent vertices: 558 968 
+Node #1850 | 2 adjacent vertices: 44 1159 
+Node #1851 | 1 adjacent vertices: 1058 
+Node #1852 | 1 adjacent vertices: 1855 
+Node #1853 | 1 adjacent vertices: 1069 
+Node #1854 | 1 adjacent vertices: 1402 
+Node #1855 | 3 adjacent vertices: 906 932 1852 
+Node #1856 | 1 adjacent vertices: 1814 
+Node #1857 | 1 adjacent vertices: 1992 
+Node #1858 | 1 adjacent vertices: 1964 
+Node #1859 | 1 adjacent vertices: 1038 
+Node #1860 | 1 adjacent vertices: 442 
+Node #1861 | 5 adjacent vertices: 743 914 1107 1238 1816 
+Node #1862 | 2 adjacent vertices: 357 525 
+Node #1863 | 4 adjacent vertices: 402 984 1428 1690 
+Node #1864 | 2 adjacent vertices: 920 1034 
+Node #1865 | 1 adjacent vertices: 290 
+Node #1866 | 4 adjacent vertices: 1066 1100 1939 1942 
+Node #1867 | 1 adjacent vertices: 1840 
+Node #1868 | 2 adjacent vertices: 317 1936 
+Node #1869 | 2 adjacent vertices: 69 1064 
+Node #1870 | 1 adjacent vertices: 95 
+Node #1871 | 1 adjacent vertices: 391 
+Node #1872 | 1 adjacent vertices: 8 
+Node #1873 | 1 adjacent vertices: 90 
+Node #1874 | 1 adjacent vertices: 1557 
+Node #1875 | 2 adjacent vertices: 357 1822 
+Node #1876 | 2 adjacent vertices: 403 1162 
+Node #1877 | 4 adjacent vertices: 110 394 801 1727 
+Node #1878 | 1 adjacent vertices: 1497 
+Node #1879 | 2 adjacent vertices: 60 1398 
+Node #1880 | 3 adjacent vertices: 577 1275 1304 
+Node #1881 | 1 adjacent vertices: 656 
+Node #1882 | 2 adjacent vertices: 1118 1770 
+Node #1883 | 3 adjacent vertices: 1159 1177 1951 
+Node #1884 | 1 adjacent vertices: 77 
+Node #1885 | 2 adjacent vertices: 36 872 
+Node #1886 | 1 adjacent vertices: 66 
+Node #1887 | 3 adjacent vertices: 243 685 942 
+Node #1888 | 2 adjacent vertices: 864 1550 
+Node #1889 | 2 adjacent vertices: 74 382 
+Node #1890 | 1 adjacent vertices: 1281 
+Node #1891 | 2 adjacent vertices: 1188 1658 
+Node #1892 | 2 adjacent vertices: 306 1125 
+Node #1893 | 2 adjacent vertices: 1345 1639 
+Node #1894 | 4 adjacent vertices: 770 811 1159 1701 
+Node #1895 | 1 adjacent vertices: 159 
+Node #1896 | 3 adjacent vertices: 4 281 613 
+Node #1897 | 4 adjacent vertices: 439 1241 1598 1643 
+Node #1898 | 4 adjacent vertices: 660 1006 1994 1999 
+Node #1899 | 2 adjacent vertices: 950 1281 
+Node #1900 | 3 adjacent vertices: 13 466 1059 
+Node #1901 | 1 adjacent vertices: 447 
+Node #1902 | 2 adjacent vertices: 1268 1342 
+Node #1903 | 1 adjacent vertices: 1067 
+Node #1904 | 4 adjacent vertices: 24 889 1090 1621 
+Node #1905 | 1 adjacent vertices: 1251 
+Node #1906 | 1 adjacent vertices: 1241 
+Node #1907 | 1 adjacent vertices: 1292 
+Node #1908 | 1 adjacent vertices: 1997 
+Node #1909 | 2 adjacent vertices: 738 1060 
+Node #1910 | 3 adjacent vertices: 1352 1601 1822 
+Node #1911 | 1 adjacent vertices: 1302 
+Node #1912 | 3 adjacent vertices: 114 437 1746 
+Node #1913 | 4 adjacent vertices: 307 438 823 1990 
+Node #1914 | 1 adjacent vertices: 813 
+Node #1915 | 3 adjacent vertices: 332 1531 1823 
+Node #1916 | 2 adjacent vertices: 711 1695 
+Node #1917 | 2 adjacent vertices: 1231 1948 
+Node #1918 | 1 adjacent vertices: 419 
+Node #1919 | 2 adjacent vertices: 12 912 
+Node #1920 | 2 adjacent vertices: 167 1966 
+Node #1921 | 3 adjacent vertices: 1515 1563 1700 
+Node #1922 | 4 adjacent vertices: 425 529 570 708 
+Node #1923 | 1 adjacent vertices: 1091 
+Node #1924 | 2 adjacent vertices: 748 1691 
+Node #1925 | 1 adjacent vertices: 271 
+Node #1926 | 3 adjacent vertices: 957 1455 1603 
+Node #1927 | 1 adjacent vertices: 1973 
+Node #1928 | 2 adjacent vertices: 267 859 
+Node #1929 | 1 adjacent vertices: 1954 
+Node #1930 | 2 adjacent vertices: 698 923 
+Node #1931 | 2 adjacent vertices: 857 1678 
+Node #1932 | 2 adjacent vertices: 401 1559 
+Node #1933 | 5 adjacent vertices: 617 762 862 1123 1834 
+Node #1934 | 1 adjacent vertices: 1098 
+Node #1935 | 1 adjacent vertices: 1643 
+Node #1936 | 1 adjacent vertices: 1868 
+Node #1937 | 3 adjacent vertices: 339 865 1735 
+Node #1938 | 1 adjacent vertices: 935 
+Node #1939 | 2 adjacent vertices: 539 1866 
+Node #1940 | 2 adjacent vertices: 413 1430 
+Node #1941 | 2 adjacent vertices: 640 645 
+Node #1942 | 4 adjacent vertices: 75 1520 1595 1866 
+Node #1943 | 3 adjacent vertices: 763 1176 1754 
+Node #1944 | 2 adjacent vertices: 688 1463 
+Node #1945 | 1 adjacent vertices: 333 
+Node #1946 | 2 adjacent vertices: 617 1352 
+Node #1947 | 1 adjacent vertices: 1510 
+Node #1948 | 2 adjacent vertices: 1390 1917 
+Node #1949 | 1 adjacent vertices: 1771 
+Node #1950 | 2 adjacent vertices: 422 821 
+Node #1951 | 2 adjacent vertices: 1632 1883 
+Node #1952 | 2 adjacent vertices: 509 1471 
+Node #1953 | 2 adjacent vertices: 1180 1345 
+Node #1954 | 2 adjacent vertices: 974 1929 
+Node #1955 | 4 adjacent vertices: 558 1515 1567 1682 
+Node #1956 | 1 adjacent vertices: 1968 
+Node #1957 | 1 adjacent vertices: 929 
+Node #1958 | 1 adjacent vertices: 1488 
+Node #1959 | 1 adjacent vertices: 587 
+Node #1960 | 4 adjacent vertices: 466 884 1845 1983 
+Node #1961 | 2 adjacent vertices: 137 763 
+Node #1962 | 2 adjacent vertices: 266 615 
+Node #1963 | 1 adjacent vertices: 1637 
+Node #1964 | 4 adjacent vertices: 240 1381 1675 1858 
+Node #1965 | 2 adjacent vertices: 1716 1814 
+Node #1966 | 5 adjacent vertices: 213 1015 1280 1635 1920 
+Node #1967 | 1 adjacent vertices: 1249 
+Node #1968 | 2 adjacent vertices: 55 1956 
+Node #1969 | 3 adjacent vertices: 568 999 1052 
+Node #1970 | 4 adjacent vertices: 703 1467 1655 1769 
+Node #1971 | 2 adjacent vertices: 1343 1485 
+Node #1972 | 2 adjacent vertices: 847 1208 
+Node #1973 | 2 adjacent vertices: 987 1927 
+Node #1974 | 2 adjacent vertices: 1014 1658 
+Node #1975 | 2 adjacent vertices: 740 1023 
+Node #1976 | 3 adjacent vertices: 348 835 1321 
+Node #1977 | 3 adjacent vertices: 366 1367 1732 
+Node #1978 | 3 adjacent vertices: 371 533 1699 
+Node #1979 | 6 adjacent vertices: 250 531 692 1221 1238 1329 
+Node #1980 | 1 adjacent vertices: 137 
+Node #1981 | 2 adjacent vertices: 649 1308 
+Node #1982 | 4 adjacent vertices: 358 1121 1131 1606 
+Node #1983 | 2 adjacent vertices: 798 1960 
+Node #1984 | 3 adjacent vertices: 854 1005 1726 
+Node #1985 | 2 adjacent vertices: 447 1488 
+Node #1986 | 1 adjacent vertices: 1475 
+Node #1987 | 3 adjacent vertices: 380 671 1325 
+Node #1988 | 2 adjacent vertices: 98 1377 
+Node #1989 | 2 adjacent vertices: 657 1315 
+Node #1990 | 1 adjacent vertices: 1913 
+Node #1991 | 1 adjacent vertices: 261 
+Node #1992 | 2 adjacent vertices: 431 1857 
+Node #1993 | 2 adjacent vertices: 531 1584 
+Node #1994 | 1 adjacent vertices: 1898 
+Node #1995 | 1 adjacent vertices: 1812 
+Node #1996 | 2 adjacent vertices: 247 483 
+Node #1997 | 2 adjacent vertices: 1531 1908 
+Node #1998 | 1 adjacent vertices: 1413 
+Node #1999 | 4 adjacent vertices: 654 803 1492 1898 
